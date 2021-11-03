@@ -1,0 +1,3394 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Stampfl1999}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5b5c8a2b229bc02825e0fd20dad6097f}{%
+           family={Stampfl},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=eb8ca57444829a925236be891f481416}{%
+           family={Kreuzer},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e0b62c154cdc035faf2dc26ba5fd87b1}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=56724aba656f7fa35c3f433d8eb40a09}{%
+           family={Pfnür},
+           familyi={P\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=734b76d862ea9278008138d9779a99e6}{%
+           family={Scheffler},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{86c6b18ec41199ebfe347255546b8d53}
+      \strng{fullhash}{5eb4a15b1d42a9b595382e7afe2aedce}
+      \strng{bibnamehash}{5eb4a15b1d42a9b595382e7afe2aedce}
+      \strng{authorbibnamehash}{5eb4a15b1d42a9b595382e7afe2aedce}
+      \strng{authornamehash}{86c6b18ec41199ebfe347255546b8d53}
+      \strng{authorfullhash}{5eb4a15b1d42a9b595382e7afe2aedce}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{title}{{First-Principles Theory of Surface Thermodynamics and Kinetics}}
+      \field{volume}{83}
+      \field{year}{1999}
+      \field{pages}{2993\bibrangedash 2996}
+      \range{pages}{4}
+    \endentry
+    \entry{Grabow2008}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d54f5a1e1e66639fdfb2dd414054700e}{%
+           family={Grabow},
+           familyi={G\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=e3c265b1f9664380f2c2f61888232584}{%
+           family={Gokhale},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=aa860b10f74c32e08b34df1e685ce021}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={S.\bibnamedelimi T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=bfc8450c7b6fc558edf38abb47981ff0}{%
+           family={Dumesic},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9f628bd9390ffa4c9ceb2957449525e9}{%
+           family={Mavrikakis},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{157cec95faea757552720c6c8c0d5e88}
+      \strng{fullhash}{e93b0b676f25cdd701608b9e324bce7b}
+      \strng{bibnamehash}{e93b0b676f25cdd701608b9e324bce7b}
+      \strng{authorbibnamehash}{e93b0b676f25cdd701608b9e324bce7b}
+      \strng{authornamehash}{157cec95faea757552720c6c8c0d5e88}
+      \strng{authorfullhash}{e93b0b676f25cdd701608b9e324bce7b}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{title}{{Mechanism of the Water Gas Shift Reaction on Pt: First Principles, Experiments, and Microkinetic Modeling}}
+      \field{volume}{112}
+      \field{year}{2008}
+      \field{pages}{4608\bibrangedash 4617}
+      \range{pages}{10}
+    \endentry
+    \entry{Gokhale2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e3c265b1f9664380f2c2f61888232584}{%
+           family={Gokhale},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bfc8450c7b6fc558edf38abb47981ff0}{%
+           family={Dumesic},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9f628bd9390ffa4c9ceb2957449525e9}{%
+           family={Mavrikakis},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd3265310de12e82fa9d45ea177a6413}
+      \strng{fullhash}{8509321ce17d1359262970c81bacdc3b}
+      \strng{bibnamehash}{8509321ce17d1359262970c81bacdc3b}
+      \strng{authorbibnamehash}{8509321ce17d1359262970c81bacdc3b}
+      \strng{authornamehash}{cd3265310de12e82fa9d45ea177a6413}
+      \strng{authorfullhash}{8509321ce17d1359262970c81bacdc3b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{title}{{On the Mechanism of Low-Temperature Water Gas Shift Reaction on Copper.}}
+      \field{volume}{130}
+      \field{year}{2008}
+      \field{pages}{1402\bibrangedash 1414}
+      \range{pages}{13}
+    \endentry
+    \entry{Getman2010}{article}{}
+      \name{author}{2}{}{%
+        {{hash=baffcde4974cdc996cae0db88b021b70}{%
+           family={Getman},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=21ac40a42f87395cdd34c5ffab37cbe1}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{866b59754bc2cd6efccf7ad258ee0758}
+      \strng{fullhash}{866b59754bc2cd6efccf7ad258ee0758}
+      \strng{bibnamehash}{866b59754bc2cd6efccf7ad258ee0758}
+      \strng{authorbibnamehash}{866b59754bc2cd6efccf7ad258ee0758}
+      \strng{authornamehash}{866b59754bc2cd6efccf7ad258ee0758}
+      \strng{authorfullhash}{866b59754bc2cd6efccf7ad258ee0758}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ChemCatChem}
+      \field{title}{{DFT-Based Coverage-Dependent Model of Pt-Catalyzed NO Oxidation}}
+      \field{volume}{2}
+      \field{year}{2010}
+      \field{pages}{1450\bibrangedash 1460}
+      \range{pages}{11}
+    \endentry
+    \entry{Grabow2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d54f5a1e1e66639fdfb2dd414054700e}{%
+           family={Grabow},
+           familyi={G\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ca1426ee2d38b25070b0dcdc9251af5e}{%
+           family={Hvolb{æ}k},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7ae731ce41a114f67899c33dc2c13dfe}{%
+           family={N{ø}rskov},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{157cec95faea757552720c6c8c0d5e88}
+      \strng{fullhash}{66eac270602b8a44ec03ee50e9c46afa}
+      \strng{bibnamehash}{66eac270602b8a44ec03ee50e9c46afa}
+      \strng{authorbibnamehash}{66eac270602b8a44ec03ee50e9c46afa}
+      \strng{authornamehash}{157cec95faea757552720c6c8c0d5e88}
+      \strng{authorfullhash}{66eac270602b8a44ec03ee50e9c46afa}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Topics in Catalysis}
+      \field{title}{{Understanding Trends in Catalytic Activity: The Effect of Adsorbate-Adsorbate Interactions for CO Oxidation Over Transition Metals}}
+      \field{volume}{53}
+      \field{year}{2010}
+      \field{pages}{298\bibrangedash 310}
+      \range{pages}{13}
+    \endentry
+    \entry{Salciccioli2011}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d6a7ccf64f6f3d3457f3e37000a98050}{%
+           family={Salciccioli},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=873b85c8a86bef240f3b16fc42ffb6d2}{%
+           family={Stamatakis},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0f38db7e26b54f083cf667c69227a3d5}{%
+           family={Caratzoulas},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e68957656717f1547c460bd27cab4243}{%
+           family={Vlachos},
+           familyi={V\bibinitperiod},
+           given={D.G.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a418b50d7fb4f48a1b2a917953f5c1c}
+      \strng{fullhash}{fbc4b69e9aab23ecd01844fc2e7bfd8e}
+      \strng{bibnamehash}{fbc4b69e9aab23ecd01844fc2e7bfd8e}
+      \strng{authorbibnamehash}{fbc4b69e9aab23ecd01844fc2e7bfd8e}
+      \strng{authornamehash}{8a418b50d7fb4f48a1b2a917953f5c1c}
+      \strng{authorfullhash}{fbc4b69e9aab23ecd01844fc2e7bfd8e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering Science}
+      \field{title}{{A Review of Multiscale Modeling of Metal-Catalyzed Reactions: Mechanism Development for Complexity and Emergent Behavior}}
+      \field{volume}{66}
+      \field{year}{2011}
+      \field{pages}{4319\bibrangedash 4355}
+      \range{pages}{37}
+    \endentry
+    \entry{Wu2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a86e97589af4ebc957e84399c0ba5a1c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=174582f5cb008de7cf9cb6eeccf6a167}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={D.J.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f56ab88248cce67077b58967962f4bdc}{%
+           family={Wolverton},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=21ac40a42f87395cdd34c5ffab37cbe1}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={W.F.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b78aad09d0e19249b7470054204c4145}
+      \strng{fullhash}{f0297fea07a9aa630fdf5711eccf580a}
+      \strng{bibnamehash}{f0297fea07a9aa630fdf5711eccf580a}
+      \strng{authorbibnamehash}{f0297fea07a9aa630fdf5711eccf580a}
+      \strng{authornamehash}{b78aad09d0e19249b7470054204c4145}
+      \strng{authorfullhash}{f0297fea07a9aa630fdf5711eccf580a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Catalysis}
+      \field{title}{{Accurate Coverage-Dependence Incorporated into First-Principles Kinetic Models: Catalytic NO Oxidation on Pt (111)}}
+      \field{volume}{286}
+      \field{year}{2012}
+      \field{pages}{88\bibrangedash 94}
+      \range{pages}{7}
+    \endentry
+    \entry{Stamatakis2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=873b85c8a86bef240f3b16fc42ffb6d2}{%
+           family={Stamatakis},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{873b85c8a86bef240f3b16fc42ffb6d2}
+      \strng{fullhash}{873b85c8a86bef240f3b16fc42ffb6d2}
+      \strng{bibnamehash}{873b85c8a86bef240f3b16fc42ffb6d2}
+      \strng{authorbibnamehash}{873b85c8a86bef240f3b16fc42ffb6d2}
+      \strng{authornamehash}{873b85c8a86bef240f3b16fc42ffb6d2}
+      \strng{authorfullhash}{873b85c8a86bef240f3b16fc42ffb6d2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics: Condensed Matter}
+      \field{title}{{Kinetic Modelling of Heterogeneous Catalytic Systems}}
+      \field{volume}{27}
+      \field{year}{2014}
+    \endentry
+    \entry{Gomez-Marin2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9657eb2fbc6c04d261ef3bc2f132e851}{%
+           family={Gomez-Marin},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=31dfa71339a27d690fa48d4207c6fdb3}{%
+           family={Hernandez-Ortiz},
+           familyi={H\bibinithyphendelim O\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2402d121944fb2d495d6270f897068dd}
+      \strng{fullhash}{2402d121944fb2d495d6270f897068dd}
+      \strng{bibnamehash}{2402d121944fb2d495d6270f897068dd}
+      \strng{authorbibnamehash}{2402d121944fb2d495d6270f897068dd}
+      \strng{authornamehash}{2402d121944fb2d495d6270f897068dd}
+      \strng{authorfullhash}{2402d121944fb2d495d6270f897068dd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{title}{{Mean Field Approximation of Langmuir − Hinshelwood CO − Surface Reactions Considering Lateral Interactions}}
+      \field{volume}{117}
+      \field{year}{2013}
+      \field{pages}{15716\bibrangedash 15727}
+      \range{pages}{12}
+    \endentry
+    \entry{Guo1989}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d1cf3b5875e193af09fb48f09d5f8c55}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f8a2abaa2986ee9a58bb087e56c49698}{%
+           family={Yates},
+           familyi={Y\bibinitperiod},
+           given={J.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{fullhash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{bibnamehash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{authorbibnamehash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{authornamehash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{authorfullhash}{65773a1bda94004ac1d3263bf7f79b84}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{title}{{Dependence of Effective Desorption Kinetic Parameters on Surface Coverage and Adsorption Temperature: CO on Pd(111)}}
+      \field{volume}{90}
+      \field{year}{1989}
+      \field{pages}{6761}
+      \range{pages}{1}
+    \endentry
+    \entry{Dulieu2013}{article}{}
+      \name{author}{8}{}{%
+        {{hash=17e26a45bfc324d43715e85f7dba74eb}{%
+           family={Dulieu},
+           familyi={D\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=fcdffc3ca778cb06730d8e7e36b751dc}{%
+           family={Congiu},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=eade0eae62175bc31aaec4eb0c47ae1e}{%
+           family={Noble},
+           familyi={N\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f337e0fd159d81a4433dceaddbb2ce1b}{%
+           family={Baouche},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b6bbbf5c6d727689ecdb05e81372f41a}{%
+           family={Chaabouni},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5d0037466394d07e0f73aaa1a3eeff34}{%
+           family={Moudens},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9f8ca95c5fbca7fe780ff56fddab7a02}{%
+           family={Minissale},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f352c17e634df1046c8d7410b134e39a}{%
+           family={Cazaux},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{64a467661bc8e6a6bb07f17c18f5c9a6}
+      \strng{fullhash}{dfc31ea76364f1cbc464a8e7e67db40d}
+      \strng{bibnamehash}{dfc31ea76364f1cbc464a8e7e67db40d}
+      \strng{authorbibnamehash}{dfc31ea76364f1cbc464a8e7e67db40d}
+      \strng{authornamehash}{64a467661bc8e6a6bb07f17c18f5c9a6}
+      \strng{authorfullhash}{dfc31ea76364f1cbc464a8e7e67db40d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{{How Micron-Sized Dust Particles Determine the Chemistry of Our Universe.}}
+      \field{volume}{3}
+      \field{year}{2013}
+      \field{pages}{1338}
+      \range{pages}{1}
+    \endentry
+    \entry{Acharyya2007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=510e2cd8bbe522a22c857c95be54336c}{%
+           family={Acharyya},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f08c67c0512f44e93582ee2a72a94a0d}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={G.\bibnamedelimi W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=7edd7339d62b355833c80b0196c0336a}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={H.\bibnamedelimi J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=85d1e2eb6af55e3240c88bed64dd90be}{%
+           family={Dishoeck},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=f8c91b482d413d0b6ad4cf6cca79bdb5}{%
+           family={Linnartz},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{853a1963cf677ccd5ea25c734d1ec66d}
+      \strng{fullhash}{cc7ee9358a179ce54b8bfb15c12a870e}
+      \strng{bibnamehash}{cc7ee9358a179ce54b8bfb15c12a870e}
+      \strng{authorbibnamehash}{cc7ee9358a179ce54b8bfb15c12a870e}
+      \strng{authornamehash}{853a1963cf677ccd5ea25c734d1ec66d}
+      \strng{authorfullhash}{cc7ee9358a179ce54b8bfb15c12a870e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Astronomy and Astrophysics}
+      \field{number}{3}
+      \field{title}{{Desorption of CO and \ce{O2} Interstellar Ice Analogs}}
+      \field{volume}{466}
+      \field{year}{2007}
+      \field{pages}{1005\bibrangedash 1012}
+      \range{pages}{8}
+    \endentry
+    \entry{Shustorovich1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ad4c5ee47d2ceab837342c85bb6ad4f8}{%
+           family={Shustorovich},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e8dabe5dc504b3a55ab8c3bdde5500a2}{%
+           family={Sellers},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c3f810364e849334973c8611fd36acc}
+      \strng{fullhash}{4c3f810364e849334973c8611fd36acc}
+      \strng{bibnamehash}{4c3f810364e849334973c8611fd36acc}
+      \strng{authorbibnamehash}{4c3f810364e849334973c8611fd36acc}
+      \strng{authornamehash}{4c3f810364e849334973c8611fd36acc}
+      \strng{authorfullhash}{4c3f810364e849334973c8611fd36acc}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science Reports}
+      \field{title}{{The UBI-QEP Method: A Practical Theoretical Approach to Understanding Chemistry on Transition Metal Surfaces}}
+      \field{volume}{31}
+      \field{year}{1998}
+      \field{pages}{1\bibrangedash 119}
+      \range{pages}{119}
+    \endentry
+    \entry{Maestri2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7b58818ca9bec32f3d68a26bf455153b}{%
+           family={Maestri},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3ba360d9b801206d7154c7971ff159fe}{%
+           family={Reuter},
+           familyi={R\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{087f6352ff13fb131d63d761fcc0114f}
+      \strng{fullhash}{087f6352ff13fb131d63d761fcc0114f}
+      \strng{bibnamehash}{087f6352ff13fb131d63d761fcc0114f}
+      \strng{authorbibnamehash}{087f6352ff13fb131d63d761fcc0114f}
+      \strng{authornamehash}{087f6352ff13fb131d63d761fcc0114f}
+      \strng{authorfullhash}{087f6352ff13fb131d63d761fcc0114f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Angewandte Chemie}
+      \field{title}{{Semiempirical Rate Constants for Complex Chemical Kinetics: First-Principles Assessment and Rational Refinement}}
+      \field{volume}{50}
+      \field{year}{2011}
+      \field{pages}{1194\bibrangedash 1197}
+      \range{pages}{4}
+    \endentry
+    \entry{Miller2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8b4d923d3df7bc9c8258c2b992f1b384}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e0526398a25c3ea57d19da6af09f5f24}{%
+           family={Pushkarev},
+           familyi={P\bibinitperiod},
+           given={V.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=f37fec531bd7a22f80820687aef6dde0}{%
+           family={Gellman},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d7cd43d45a87b2125178d76312f7b69f}{%
+           family={Kitchin},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a272a53cd298f7969c2e2e7da2f335de}
+      \strng{fullhash}{933ee9303e6dca66e1d86185b4bd291b}
+      \strng{bibnamehash}{933ee9303e6dca66e1d86185b4bd291b}
+      \strng{authorbibnamehash}{933ee9303e6dca66e1d86185b4bd291b}
+      \strng{authornamehash}{a272a53cd298f7969c2e2e7da2f335de}
+      \strng{authorfullhash}{933ee9303e6dca66e1d86185b4bd291b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Topics in Catalysis}
+      \field{title}{{Simulating Temperature Programmed Desorption of Oxygen on Pt(111) Using DFT Derived Coverage Dependent Desorption Barriers}}
+      \field{volume}{57}
+      \field{year}{2014}
+      \field{pages}{106\bibrangedash 117}
+      \range{pages}{12}
+    \endentry
+    \entry{Tang2004}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d1ac21c88a64863228d9cf724f2e484a}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f15730d10fafa7621292b586f59271ad}{%
+           family={{Van Der Ven}},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8af41f565f99f26cd4e96749560bd23a}{%
+           family={Trout},
+           familyi={T\bibinitperiod},
+           given={B.\bibnamedelimi L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{84c2ad66cd42f64308e19ab9364ef941}
+      \strng{fullhash}{455b672e9f09025cea21bb7cf212afa2}
+      \strng{bibnamehash}{455b672e9f09025cea21bb7cf212afa2}
+      \strng{authorbibnamehash}{455b672e9f09025cea21bb7cf212afa2}
+      \strng{authornamehash}{84c2ad66cd42f64308e19ab9364ef941}
+      \strng{authorfullhash}{455b672e9f09025cea21bb7cf212afa2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Physics}
+      \field{title}{{Lateral Interactions Between Oxygen Atoms Adsorbed on Platinum (111) by First Principles}}
+      \field{volume}{102}
+      \field{year}{2004}
+      \field{pages}{273\bibrangedash 279}
+      \range{pages}{7}
+    \endentry
+    \entry{Han2005}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7a1ad3a317a6f3453b0482f28aa190a6}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=199426a06577edfdc7474d9f366bc6d0}{%
+           family={{Van der Ven}},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a1b60fd6a3b9a6fb0a03135ddc33721a}{%
+           family={Ceder},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a968524614ed0f8dae1d3bac471a428e}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={B.-J.},
+           giveni={B\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c0102dac8fe80fdbab9971bfe803058b}
+      \strng{fullhash}{c879fff14a109b573ba8c3e17e7d4126}
+      \strng{bibnamehash}{c879fff14a109b573ba8c3e17e7d4126}
+      \strng{authorbibnamehash}{c879fff14a109b573ba8c3e17e7d4126}
+      \strng{authornamehash}{c0102dac8fe80fdbab9971bfe803058b}
+      \strng{authorfullhash}{c879fff14a109b573ba8c3e17e7d4126}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{Surface Segregation and Ordering of Alloy Surfaces in the Presence of Adsorbates}}
+      \field{volume}{72}
+      \field{year}{2005}
+      \field{pages}{205409}
+      \range{pages}{1}
+    \endentry
+    \entry{Miller2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8b4d923d3df7bc9c8258c2b992f1b384}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d7cd43d45a87b2125178d76312f7b69f}{%
+           family={Kitchin},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{70355161e77820085b1e161733cd5165}
+      \strng{fullhash}{70355161e77820085b1e161733cd5165}
+      \strng{bibnamehash}{70355161e77820085b1e161733cd5165}
+      \strng{authorbibnamehash}{70355161e77820085b1e161733cd5165}
+      \strng{authornamehash}{70355161e77820085b1e161733cd5165}
+      \strng{authorfullhash}{70355161e77820085b1e161733cd5165}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{Relating the Coverage Dependence of Oxygen Adsorption on Au and Pt FCC(111) Surfaces Through Adsorbate-Induced Surface Electronic Structure Effects}}
+      \field{volume}{603}
+      \field{year}{2009}
+      \field{pages}{794\bibrangedash 801}
+      \range{pages}{8}
+    \endentry
+    \entry{Schmidt2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=174582f5cb008de7cf9cb6eeccf6a167}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2bdd48dc68b3d7c9d63e3844f2459fd6}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f56ab88248cce67077b58967962f4bdc}{%
+           family={Wolverton},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=21ac40a42f87395cdd34c5ffab37cbe1}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d22bf83b2470d55ebc910a69cef5d76}
+      \strng{fullhash}{2b9c1706d12cf594befaa898e9d59253}
+      \strng{bibnamehash}{2b9c1706d12cf594befaa898e9d59253}
+      \strng{authorbibnamehash}{2b9c1706d12cf594befaa898e9d59253}
+      \strng{authornamehash}{8d22bf83b2470d55ebc910a69cef5d76}
+      \strng{authorfullhash}{2b9c1706d12cf594befaa898e9d59253}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Chemical Theory and Computation}
+      \field{title}{{Performance of Cluster Expansions of Coverage-Dependent Adsorption of Atomic Oxygen on Pt(111)}}
+      \field{volume}{8}
+      \field{year}{2012}
+      \field{pages}{264\bibrangedash 273}
+      \range{pages}{10}
+    \endentry
+    \entry{Bray2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a1ae4588874754f6736ea5606d08270c}{%
+           family={Bray},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8f60f84bda3926da469f7598b1cc82a5}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=21ac40a42f87395cdd34c5ffab37cbe1}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{026eddcf37c48a87b1dc7ad291b2b676}
+      \strng{fullhash}{f8cda20ae863b70a5a8f670f4aead77c}
+      \strng{bibnamehash}{f8cda20ae863b70a5a8f670f4aead77c}
+      \strng{authorbibnamehash}{f8cda20ae863b70a5a8f670f4aead77c}
+      \strng{authornamehash}{026eddcf37c48a87b1dc7ad291b2b676}
+      \strng{authorfullhash}{f8cda20ae863b70a5a8f670f4aead77c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Topics in Catalysis}
+      \field{title}{{Coverage-Dependent Adsorption at a Low Symmetry Surface: DFT and Statistical Analysis of Oxygen Chemistry on Kinked Pt(321)}}
+      \field{volume}{57}
+      \field{year}{2014}
+      \field{pages}{89\bibrangedash 105}
+      \range{pages}{17}
+    \endentry
+    \entry{Lerch2009}{article}{}
+      \name{author}{5}{}{%
+        {{hash=05206875a80a72f32c7606815c68d05f}{%
+           family={Lerch},
+           familyi={L\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=31e61992f9066b6644f2b5300f56bce9}{%
+           family={Wieckhorst},
+           familyi={W\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
+        {{hash=511066325ef26e0265c3b6af2cbae17d}{%
+           family={Hart},
+           familyi={H\bibinitperiod},
+           given={G\bibnamedelima L\bibnamedelima W},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=c4ae64cbe037cc90694f0f7db60bdd10}{%
+           family={Forcade},
+           familyi={F\bibinitperiod},
+           given={R\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=0607019ea0ba36b2f2fdd55fd930eadd}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac86837d54753edc3607d5778f576c7e}
+      \strng{fullhash}{6bca24b7f279186deaa5d1a133b3c40e}
+      \strng{bibnamehash}{6bca24b7f279186deaa5d1a133b3c40e}
+      \strng{authorbibnamehash}{6bca24b7f279186deaa5d1a133b3c40e}
+      \strng{authornamehash}{ac86837d54753edc3607d5778f576c7e}
+      \strng{authorfullhash}{6bca24b7f279186deaa5d1a133b3c40e}
+      \field{extraname}{1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Modelling and Simulation in Materials Science and Engineering}
+      \field{title}{{UNCLE: A Code for Constructing Cluster Expansions for Arbitrary Lattices with Minimal User-Input}}
+      \field{volume}{17}
+      \field{year}{2009}
+      \field{pages}{055003}
+      \range{pages}{1}
+    \endentry
+    \entry{Bray2013b}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=a1ae4588874754f6736ea5606d08270c}{%
+           family={Bray},
+           familyi={B\bibinitperiod},
+           given={J\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=21ac40a42f87395cdd34c5ffab37cbe1}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={W\bibnamedelima F},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=bc5711f2b2cd2042405e889530f3a834}{%
+           family={Asthagiri},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8d68885b91d2843ff3d0ceece8c769d5}{%
+           family={Janik},
+           familyi={J\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {RSC Publsihing}%
+      }
+      \strng{namehash}{12f43baaf717e4c3435ba5d000b87958}
+      \strng{fullhash}{12f43baaf717e4c3435ba5d000b87958}
+      \strng{bibnamehash}{12f43baaf717e4c3435ba5d000b87958}
+      \strng{authorbibnamehash}{12f43baaf717e4c3435ba5d000b87958}
+      \strng{authornamehash}{12f43baaf717e4c3435ba5d000b87958}
+      \strng{authorfullhash}{12f43baaf717e4c3435ba5d000b87958}
+      \strng{editorbibnamehash}{4b65d5c16e6e8e82eb0e4f756a926d90}
+      \strng{editornamehash}{4b65d5c16e6e8e82eb0e4f756a926d90}
+      \strng{editorfullhash}{4b65d5c16e6e8e82eb0e4f756a926d90}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computational Catalysis}
+      \field{title}{{First-Principles Thermodynamic Models in Heterogeneous Catalysis}}
+      \field{year}{2013}
+      \verb{file}
+      \verb :C$\backslash$:/Users/John/Desktop/Research/Resources/draft11.pdf:pdf
+      \endverb
+    \endentry
+    \entry{McEwen2002}{article}{}
+      \name{author}{3}{}{%
+        {{hash=240f2261b70aa390ca539cd2146dfeeb}{%
+           family={McEwen},
+           familyi={M\bibinitperiod},
+           given={J.-S.},
+           giveni={J\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=e0b62c154cdc035faf2dc26ba5fd87b1}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5b5c8a2b229bc02825e0fd20dad6097f}{%
+           family={Stampfl},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f664348c6b841487e144248c5adc2083}
+      \strng{fullhash}{6a0a6ac2364142894ee87cda50686baa}
+      \strng{bibnamehash}{6a0a6ac2364142894ee87cda50686baa}
+      \strng{authorbibnamehash}{6a0a6ac2364142894ee87cda50686baa}
+      \strng{authornamehash}{f664348c6b841487e144248c5adc2083}
+      \strng{authorfullhash}{6a0a6ac2364142894ee87cda50686baa}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Physics Letters}
+      \field{title}{{Phase Diagram of O/Ru (0001) from First Principles}}
+      \field{volume}{361}
+      \field{year}{2002}
+      \field{pages}{317\bibrangedash 320}
+      \range{pages}{4}
+    \endentry
+    \entry{Lazo2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fa3a582aaeea5aedf7ab61a38ea8303b}{%
+           family={Lazo},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2aa456df65b93b4d5bdb07d22dfe3ff2}{%
+           family={Keil},
+           familyi={K\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{aac6b9249224fd09852650ac2f9547ce}
+      \strng{fullhash}{aac6b9249224fd09852650ac2f9547ce}
+      \strng{bibnamehash}{aac6b9249224fd09852650ac2f9547ce}
+      \strng{authorbibnamehash}{aac6b9249224fd09852650ac2f9547ce}
+      \strng{authornamehash}{aac6b9249224fd09852650ac2f9547ce}
+      \strng{authorfullhash}{aac6b9249224fd09852650ac2f9547ce}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{Phase Diagram of Oxygen Adsorbed on Ni(111) and Thermodynamic Properties From First-Principles}}
+      \field{volume}{79}
+      \field{year}{2009}
+      \field{pages}{245418}
+      \range{pages}{1}
+    \endentry
+    \entry{Chen2012}{article}{}
+      \name{author}{8}{}{%
+        {{hash=ce2628fb5b7c5a6e9483a40e04abbb59}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d90f53b6c47cfea3540b0fb9da23dbd7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=19523e3205d882df174fb71635f010d2}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=27e1c3ce808aa1023e2653b6ecb09438}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=9363f9c9e49bc8aa7dfc9aad9d505213}{%
+           family={Kapur},
+           familyi={K\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5f6c9f700a9454d389f22b522c51b589}{%
+           family={Hyun},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0f841893a4e03c6a159374cc7136b961}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0904465ab1fec428d3298ea79a016007}{%
+           family={Shan},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b1b16e28ae878e6a7c7a79bd3210f18}
+      \strng{fullhash}{43a88b924324fe57915dd2f7e9759bf1}
+      \strng{bibnamehash}{43a88b924324fe57915dd2f7e9759bf1}
+      \strng{authorbibnamehash}{43a88b924324fe57915dd2f7e9759bf1}
+      \strng{authornamehash}{5b1b16e28ae878e6a7c7a79bd3210f18}
+      \strng{authorfullhash}{43a88b924324fe57915dd2f7e9759bf1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational and Theoretical Chemistry}
+      \field{title}{{CO Adsorption on Pt(111) and Pd(111) Surfaces: A First-Principles Based Lattice Gas Monte-Carlo Study}}
+      \field{volume}{987}
+      \field{year}{2012}
+      \field{pages}{77\bibrangedash 83}
+      \range{pages}{7}
+    \endentry
+    \entry{Tan2013}{article}{}
+      \name{author}{4}{}{%
+        {{hash=209673f6d4401954734ab78cf97a640c}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={T.\bibnamedelimi L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3686711dc0ed6d5d4187e692eea0be86}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={L.-L.},
+           giveni={L\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=83f2f6f34ed7c22baa88e92650e7819c}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={D.\bibnamedelimi D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=6c6d89c3086ad710d435f9cff1b4cde0}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c0fdd5c6a7397aec70672202381fefe}
+      \strng{fullhash}{65be61f62a53b004cdda0aa2da9e2aa8}
+      \strng{bibnamehash}{65be61f62a53b004cdda0aa2da9e2aa8}
+      \strng{authorbibnamehash}{65be61f62a53b004cdda0aa2da9e2aa8}
+      \strng{authornamehash}{4c0fdd5c6a7397aec70672202381fefe}
+      \strng{authorfullhash}{65be61f62a53b004cdda0aa2da9e2aa8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{title}{{Hydrogen Deposition on Pt(111) during Electrochemical Hydrogen Evolution from a First-Principles Multiadsorption-Site Study}}
+      \field{volume}{117}
+      \field{year}{2013}
+      \field{pages}{22696\bibrangedash 22704}
+      \range{pages}{9}
+    \endentry
+    \entry{Shan2009}{article}{}
+      \name{author}{6}{}{%
+        {{hash=0904465ab1fec428d3298ea79a016007}{%
+           family={Shan},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d5ff4bd5ca210dc62374b1352daac212}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5f6c9f700a9454d389f22b522c51b589}{%
+           family={Hyun},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9363f9c9e49bc8aa7dfc9aad9d505213}{%
+           family={Kapur},
+           familyi={K\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6979af4737351f0277a9196c16dc4416}{%
+           family={Nicholas},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=0f841893a4e03c6a159374cc7136b961}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c63a7c46fe07602370e45d7f29d55cc}
+      \strng{fullhash}{c1f3ee5182d1ef67481f70180713b626}
+      \strng{bibnamehash}{c1f3ee5182d1ef67481f70180713b626}
+      \strng{authorbibnamehash}{c1f3ee5182d1ef67481f70180713b626}
+      \strng{authornamehash}{1c63a7c46fe07602370e45d7f29d55cc}
+      \strng{authorfullhash}{c1f3ee5182d1ef67481f70180713b626}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{title}{{Coverage-Dependent CO Adsorption Energy from First-Principles Calculations}}
+      \field{volume}{113}
+      \field{year}{2009}
+      \field{pages}{6088\bibrangedash 6092}
+      \range{pages}{5}
+    \endentry
+    \entry{Lerch2008}{article}{}
+      \name{author}{5}{}{%
+        {{hash=05206875a80a72f32c7606815c68d05f}{%
+           family={Lerch},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=31e61992f9066b6644f2b5300f56bce9}{%
+           family={Wieckhorst},
+           familyi={W\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=b7e73c5fc62e2dca259439b7a2149201}{%
+           family={Hammer},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e971772aafb2c9b7b7d426481cd5341e}{%
+           family={Heinz},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0607019ea0ba36b2f2fdd55fd930eadd}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac86837d54753edc3607d5778f576c7e}
+      \strng{fullhash}{e9462bbf43d25c2c9c35ff099d3a0182}
+      \strng{bibnamehash}{e9462bbf43d25c2c9c35ff099d3a0182}
+      \strng{authorbibnamehash}{e9462bbf43d25c2c9c35ff099d3a0182}
+      \strng{authornamehash}{ac86837d54753edc3607d5778f576c7e}
+      \strng{authorfullhash}{e9462bbf43d25c2c9c35ff099d3a0182}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{Adsorbate Cluster Expansion for an Arbitrary Number of Inequivalent Sites}}
+      \field{volume}{78}
+      \field{year}{2008}
+      \field{pages}{121405}
+      \range{pages}{1}
+    \endentry
+    \entry{Sluiter2003}{article}{}
+      \name{author}{2}{}{%
+        {{hash=795b51eb0a63c3430f17d477e2848fb7}{%
+           family={Sluiter},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9d588aa5d888c2ace4817a1604344dba}{%
+           family={Kawazoe},
+           familyi={K\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{9af68b70e01825aad4de04138138759a}
+      \strng{fullhash}{9af68b70e01825aad4de04138138759a}
+      \strng{bibnamehash}{9af68b70e01825aad4de04138138759a}
+      \strng{authorbibnamehash}{9af68b70e01825aad4de04138138759a}
+      \strng{authornamehash}{9af68b70e01825aad4de04138138759a}
+      \strng{authorfullhash}{9af68b70e01825aad4de04138138759a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{Cluster Expansion Method for Adsorption: Application of Hydogen Chemisorption on Graphene}}
+      \field{volume}{68}
+      \field{year}{2003}
+      \field{pages}{085410}
+      \range{pages}{1}
+    \endentry
+    \entry{Stohr2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5fa4fc1a5ac93dbe08cb2c1cde6dccc7}{%
+           family={Stöhr},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cb6460b25fd5ccde13a81ae2135eeeba}{%
+           family={Podloucky},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0607019ea0ba36b2f2fdd55fd930eadd}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{017c6f591324844d01a6d199d5913cde}
+      \strng{fullhash}{d92a054db047d3d3cf7262f8b4a86ed4}
+      \strng{bibnamehash}{d92a054db047d3d3cf7262f8b4a86ed4}
+      \strng{authorbibnamehash}{d92a054db047d3d3cf7262f8b4a86ed4}
+      \strng{authornamehash}{017c6f591324844d01a6d199d5913cde}
+      \strng{authorfullhash}{d92a054db047d3d3cf7262f8b4a86ed4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics: Condensed Matter}
+      \field{title}{{Ab initio Phase Diagram of Oxygen Adsorption on W(110).}}
+      \field{volume}{21}
+      \field{year}{2009}
+      \field{pages}{134017}
+      \range{pages}{1}
+    \endentry
+    \entry{Liu2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f9e7b5a3c0e8121085c36dfda059c1e0}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={D.-J.},
+           giveni={D\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=d0c41705ef12181f576ab91eb3ce5cc6}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{fullhash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{bibnamehash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{authorbibnamehash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{authornamehash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{authorfullhash}{83db35fac9a78c687970ebd86d50aabc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Progress in Surface Science}
+      \field{title}{{Realistic Multisite Lattice-Gas Modeling and KMC Simulation of Catalytic Surface Reactions: Kinetics and Multiscale Spatial Behavior for CO-Oxidation on Metal (100) Surfaces}}
+      \field{volume}{88}
+      \field{year}{2013}
+      \field{pages}{393\bibrangedash 521}
+      \range{pages}{129}
+    \endentry
+    \entry{Liu2004}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f9e7b5a3c0e8121085c36dfda059c1e0}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={D.-J.},
+           giveni={D\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=d0c41705ef12181f576ab91eb3ce5cc6}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{fullhash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{bibnamehash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{authorbibnamehash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{authornamehash}{83db35fac9a78c687970ebd86d50aabc}
+      \strng{authorfullhash}{83db35fac9a78c687970ebd86d50aabc}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{title}{{Lattice-Gas Modeling of CO Adlayers on Pd(100)}}
+      \field{volume}{121}
+      \field{year}{2004}
+      \field{pages}{4352\bibrangedash 4357}
+      \range{pages}{6}
+    \endentry
+    \entry{Bollmann2008}{article}{}
+      \name{author}{10}{}{%
+        {{hash=2c83c9c8ec577cd1f86004739abc2f11}{%
+           family={Bollmann},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=eccb007e1973c3fe62f9ac5d8a05907a}{%
+           family={Ratts},
+           familyi={R\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=601b5b424ef63745914742e96d7c7492}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3df591fa5e7ca0be59816021207bd435}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e73dde6b70cbe8f54e768a0ed8210737}{%
+           family={Pazmino},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d05e0ab761359156471757e41f377bda}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Y.\bibnamedelimi V.},
+           giveni={Y\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=c5cc1fee9ffaee06e73127c9da5a288d}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=dbaef9cdd2491e7dadbdda121b1b6ef1}{%
+           family={Kropf},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=89322581850c243893dd8f11d416bcb7}{%
+           family={Delgass},
+           familyi={D\bibinitperiod},
+           given={W.\bibnamedelimi N.},
+           giveni={W\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=53c15c6a95fd29195244d2b593d4997e}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={F.\bibnamedelimi H.},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{081c989d643f9c3b2026641a58c00c30}
+      \strng{fullhash}{3d42dd8aa1ef8b3ba80fcc42f66782db}
+      \strng{bibnamehash}{3d42dd8aa1ef8b3ba80fcc42f66782db}
+      \strng{authorbibnamehash}{3d42dd8aa1ef8b3ba80fcc42f66782db}
+      \strng{authornamehash}{081c989d643f9c3b2026641a58c00c30}
+      \strng{authorfullhash}{3d42dd8aa1ef8b3ba80fcc42f66782db}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Catalysis}
+      \field{title}{{Effect of Zn Addition on the Water–Gas Shift Reaction Over Supported Palladium Catalysts}}
+      \field{volume}{257}
+      \field{year}{2008}
+      \field{pages}{43\bibrangedash 54}
+      \range{pages}{12}
+    \endentry
+    \entry{Hilaire2001}{article}{}
+      \name{author}{5}{}{%
+        {{hash=88a6e0dbee5e65fc3f4c394e9c703f93}{%
+           family={Hilaire},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bbe869383a7d3458b82c516a21e4482c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f9ac95e344e4cc49b376b4a7928b2420}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3e659d4bb2216b745f4a23389123c911}{%
+           family={Gorte},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f7e8e8b463eb9f6c33faebd6367a9696}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{09a2b3d61f957ebbf625c88b5a53a9d7}
+      \strng{fullhash}{2b03ef4f4e1290e16ab46c9108ef9573}
+      \strng{bibnamehash}{2b03ef4f4e1290e16ab46c9108ef9573}
+      \strng{authorbibnamehash}{2b03ef4f4e1290e16ab46c9108ef9573}
+      \strng{authornamehash}{09a2b3d61f957ebbf625c88b5a53a9d7}
+      \strng{authorfullhash}{2b03ef4f4e1290e16ab46c9108ef9573}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Catalysis A: General}
+      \field{title}{{A Comparative Study of Water-Gas-Shift Reaction Over Ceria Supported Metallic Catalysts}}
+      \field{volume}{215}
+      \field{year}{2001}
+      \field{pages}{271\bibrangedash 278}
+      \range{pages}{8}
+    \endentry
+    \entry{Kugai2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5ae473fd18aa66ad7a229d2d71c5555c}{%
+           family={Kugai},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d1dde9a799f96fa650257bcca959b5e}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={E.\bibnamedelimi B.},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=d36f2a32a6f14d5bffe4ac892a27382d}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{dff7f00963b5085a8e2a79c37609b5f4}
+      \strng{fullhash}{ba873f9e42b11a59af5ea06ddd590d37}
+      \strng{bibnamehash}{ba873f9e42b11a59af5ea06ddd590d37}
+      \strng{authorbibnamehash}{ba873f9e42b11a59af5ea06ddd590d37}
+      \strng{authornamehash}{dff7f00963b5085a8e2a79c37609b5f4}
+      \strng{authorfullhash}{ba873f9e42b11a59af5ea06ddd590d37}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Catalysis A: General}
+      \field{title}{{Role of \ce{CeO2} Support for Pd-Cu Bimetallic Catalysts for Oxygen-Enhanced Water Gas Shift}}
+      \field{volume}{456}
+      \field{year}{2013}
+      \field{pages}{204\bibrangedash 214}
+      \range{pages}{11}
+    \endentry
+    \entry{Bunluesin1998}{article}{}
+      \name{author}{3}{}{%
+        {{hash=897fd34b5465bfd39e88acc01f77d803}{%
+           family={Bunluesin},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=74095ddd28566acf24b2dd6f78fde403}{%
+           family={Gottea},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f5c45ced40932837005b242565fdf39e}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={G.\bibnamedelimi W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{af2d487834e0db4c228c6b56db4426d4}
+      \strng{fullhash}{08db196eebc4dcccb659940cc9da52f3}
+      \strng{bibnamehash}{08db196eebc4dcccb659940cc9da52f3}
+      \strng{authorbibnamehash}{08db196eebc4dcccb659940cc9da52f3}
+      \strng{authornamehash}{af2d487834e0db4c228c6b56db4426d4}
+      \strng{authorfullhash}{08db196eebc4dcccb659940cc9da52f3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Catalysis B: Environmental}
+      \field{title}{{Studies of the Water-Gas-Shift Reaction on Ceria-Supported Pt, Pd, and Rh: Implications for Oxygen-Storage Properties}}
+      \field{volume}{15}
+      \field{year}{1998}
+      \field{pages}{107\bibrangedash 114}
+      \range{pages}{8}
+    \endentry
+    \entry{Ollis1981}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a5d7028e5b864161f05938035038ab12}{%
+           family={Grenoble},
+           familyi={G\bibinitperiod},
+           given={D.\bibnamedelimi C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=be4b9f492501ceb192911abd4de553ef}{%
+           family={Estadt},
+           familyi={E\bibinitperiod},
+           given={M.\bibnamedelimi M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=12cb40efdb8eb415743dc320bd9a622a}{%
+           family={Ollis},
+           familyi={O\bibinitperiod},
+           given={D.\bibnamedelimi F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{16798e0205aba69655fdec75da0589bf}
+      \strng{fullhash}{526ecd921ab8b444e0979b7a2029f4a3}
+      \strng{bibnamehash}{526ecd921ab8b444e0979b7a2029f4a3}
+      \strng{authorbibnamehash}{526ecd921ab8b444e0979b7a2029f4a3}
+      \strng{authornamehash}{16798e0205aba69655fdec75da0589bf}
+      \strng{authorfullhash}{526ecd921ab8b444e0979b7a2029f4a3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Catalysis}
+      \field{title}{{The Chemistry and Catalysis of the Water Gas Shift Reaction}}
+      \field{volume}{102}
+      \field{year}{1981}
+      \field{pages}{90\bibrangedash 102}
+      \range{pages}{13}
+    \endentry
+    \entry{Olympiou2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=63c0fc5966c7892436f1f8991566d8ed}{%
+           family={Olympiou},
+           familyi={O\bibinitperiod},
+           given={G.\bibnamedelimi G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d9217b71030e1aeb48f8caabdb3e4e78}{%
+           family={Kalamaras},
+           familyi={K\bibinitperiod},
+           given={C.\bibnamedelimi M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=80f5e6e5e0b82535bef719b0dd463620}{%
+           family={Zeinalipour-Yazdi},
+           familyi={Z\bibinithyphendelim Y\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7681662119cd2364763b54a4a81418f3}{%
+           family={Efstathiou},
+           familyi={E\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f18b6ee922d496ffaf683c68b2c6b35}
+      \strng{fullhash}{cbef6c7217e63a702b133f30baf8e90e}
+      \strng{bibnamehash}{cbef6c7217e63a702b133f30baf8e90e}
+      \strng{authorbibnamehash}{cbef6c7217e63a702b133f30baf8e90e}
+      \strng{authornamehash}{9f18b6ee922d496ffaf683c68b2c6b35}
+      \strng{authorfullhash}{cbef6c7217e63a702b133f30baf8e90e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Catalysis Today}
+      \field{title}{{Mechanistic Aspects of the Water Gas Shift Reaction on Alumina-Supported Noble Metal Catalysts: In situ DRIFTS and SSITKA-Mass Spectrometry Studies}}
+      \field{volume}{127}
+      \field{year}{2007}
+      \field{pages}{304\bibrangedash 318}
+      \range{pages}{15}
+    \endentry
+    \entry{Jr1994}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f975ad85b81a0a32ea405c8b9fe9b346}{%
+           family={{Bariber Jr}},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f9b471514770aeb482866d4030bb5f11}{%
+           family={Duprez},
+           familyi={D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7876081d06d91f21c519798c167155f}
+      \strng{fullhash}{c7876081d06d91f21c519798c167155f}
+      \strng{bibnamehash}{c7876081d06d91f21c519798c167155f}
+      \strng{authorbibnamehash}{c7876081d06d91f21c519798c167155f}
+      \strng{authornamehash}{c7876081d06d91f21c519798c167155f}
+      \strng{authorfullhash}{c7876081d06d91f21c519798c167155f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Catalysis B: Environmental}
+      \field{title}{{Steam Effects in Three-Way Catalysis}}
+      \field{volume}{4}
+      \field{year}{1994}
+      \field{pages}{105\bibrangedash 140}
+      \range{pages}{36}
+    \endentry
+    \entry{Phatak2007}{article}{}
+      \name{author}{9}{}{%
+        {{hash=befa0375e8a09112551def7f00310a61}{%
+           family={Phatak},
+           familyi={P\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=071623949c8f5fb1621a98b3c4b1bbf0}{%
+           family={Koryabkina},
+           familyi={K\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=fcb4ca51f546b1b816aee99e743c05cd}{%
+           family={Rai},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=eccb007e1973c3fe62f9ac5d8a05907a}{%
+           family={Ratts},
+           familyi={R\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3b0564cf549aa1dd108ca6cf1b33c5e7}{%
+           family={Ruettinger},
+           familyi={R\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=940c25ef4590f2e396bfcc946f6bde22}{%
+           family={Farrauto},
+           familyi={F\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7377601843ef790445040ffeec7a806a}{%
+           family={Blau},
+           familyi={B\bibinitperiod},
+           given={G.\bibnamedelimi E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=89322581850c243893dd8f11d416bcb7}{%
+           family={Delgass},
+           familyi={D\bibinitperiod},
+           given={W.\bibnamedelimi N.},
+           giveni={W\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=53c15c6a95fd29195244d2b593d4997e}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={F.\bibnamedelimi H.},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc151e0a3a5b6fa4e1fb77dd99477eea}
+      \strng{fullhash}{2de5e9ec001f713859f8dbd422224ece}
+      \strng{bibnamehash}{2de5e9ec001f713859f8dbd422224ece}
+      \strng{authorbibnamehash}{2de5e9ec001f713859f8dbd422224ece}
+      \strng{authornamehash}{fc151e0a3a5b6fa4e1fb77dd99477eea}
+      \strng{authorfullhash}{2de5e9ec001f713859f8dbd422224ece}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Catalysis Today}
+      \field{title}{{Kinetics of the Water Gas Shift Reaction on Pt Catalysts Supported on Alumina and Ceria}}
+      \field{volume}{123}
+      \field{year}{2007}
+      \field{pages}{224\bibrangedash 234}
+      \range{pages}{11}
+    \endentry
+    \entry{Stamatakis2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=873b85c8a86bef240f3b16fc42ffb6d2}{%
+           family={Stamatakis},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e68957656717f1547c460bd27cab4243}{%
+           family={Vlachos},
+           familyi={V\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{aed6db0ed4f99fb30e999acf3ef3f7d2}
+      \strng{fullhash}{aed6db0ed4f99fb30e999acf3ef3f7d2}
+      \strng{bibnamehash}{aed6db0ed4f99fb30e999acf3ef3f7d2}
+      \strng{authorbibnamehash}{aed6db0ed4f99fb30e999acf3ef3f7d2}
+      \strng{authornamehash}{aed6db0ed4f99fb30e999acf3ef3f7d2}
+      \strng{authorfullhash}{aed6db0ed4f99fb30e999acf3ef3f7d2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{title}{{A Graph-Theoretical Kinetic Monte Carlo Framework for On-Lattice Chemical Kinetics.}}
+      \field{volume}{134}
+      \field{year}{2011}
+      \field{pages}{214115}
+      \range{pages}{1}
+    \endentry
+    \entry{Stamatakis2011a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=873b85c8a86bef240f3b16fc42ffb6d2}{%
+           family={Stamatakis},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ff38b98d2dc65002f66d028a85b9d58d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e68957656717f1547c460bd27cab4243}{%
+           family={Vlachos},
+           familyi={V\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b62c241306951683cd28dea113cde51}
+      \strng{fullhash}{aa9eb0f6bcedc1666cf3a813a05f83b6}
+      \strng{bibnamehash}{aa9eb0f6bcedc1666cf3a813a05f83b6}
+      \strng{authorbibnamehash}{aa9eb0f6bcedc1666cf3a813a05f83b6}
+      \strng{authornamehash}{6b62c241306951683cd28dea113cde51}
+      \strng{authorfullhash}{aa9eb0f6bcedc1666cf3a813a05f83b6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{title}{{First-Principles-Based Kinetic Monte Carlo Simulation of the Structure Sensitivity of the Water Gas Shift Reaction on Platinum Surfaces}}
+      \field{volume}{115}
+      \field{year}{2011}
+      \field{pages}{24750\bibrangedash 24762}
+      \range{pages}{13}
+    \endentry
+    \entry{Clay2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=59ff32a0bf791c00e3012937c12148cd}{%
+           family={Clay},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=2b40ec273d87c31e0a2194ab7de1c26f}{%
+           family={Greeley},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=53c15c6a95fd29195244d2b593d4997e}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={F.\bibnamedelimi H.},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=89322581850c243893dd8f11d416bcb7}{%
+           family={Delgass},
+           familyi={D\bibinitperiod},
+           given={W.\bibnamedelimi N.},
+           giveni={W\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=21ac40a42f87395cdd34c5ffab37cbe1}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{3df98bd52cef804fa6ad1b8db0367b9f}
+      \strng{fullhash}{f775834b336daefd7b67a17a23b322df}
+      \strng{bibnamehash}{f775834b336daefd7b67a17a23b322df}
+      \strng{authorbibnamehash}{f775834b336daefd7b67a17a23b322df}
+      \strng{authornamehash}{3df98bd52cef804fa6ad1b8db0367b9f}
+      \strng{authorfullhash}{f775834b336daefd7b67a17a23b322df}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Catalysis}
+      \field{title}{{DFT Comparison of Intrinsic WGS Kinetics over Pd and Pt}}
+      \field{volume}{320}
+      \field{year}{2014}
+      \field{pages}{106\bibrangedash 117}
+      \range{pages}{12}
+    \endentry
+    \entry{Tiishaus1990}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b6f9b36bec62d7d12e266ee4b014069a}{%
+           family={Tushaus},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bb424111832685b163ad54846da3db67}{%
+           family={Berndt},
+           familyi={B\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b8c02162eb3b4b8516253a0835b489da}{%
+           family={Conrad},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cf866d16919aa7bd7148301f42b4c7ba}{%
+           family={Bradshaw},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1b95a59d1a01f7f2fd9ea28c53f2c5fc}{%
+           family={Persson},
+           familyi={P\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{c19c562448f78a2e5669c1f95193800f}
+      \strng{fullhash}{b3d811f1e5309149008f93f826250c0a}
+      \strng{bibnamehash}{b3d811f1e5309149008f93f826250c0a}
+      \strng{authorbibnamehash}{b3d811f1e5309149008f93f826250c0a}
+      \strng{authornamehash}{c19c562448f78a2e5669c1f95193800f}
+      \strng{authorfullhash}{b3d811f1e5309149008f93f826250c0a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Physics A}
+      \field{title}{{Understanding the Structure of High Coverage CO Adlayers}}
+      \field{volume}{51}
+      \field{year}{1990}
+      \field{pages}{91\bibrangedash 98}
+      \range{pages}{8}
+    \endentry
+    \entry{Ohtani1987}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f34dffa6d5c3181b7c7f05c308740b1e}{%
+           family={Ohtani},
+           familyi={O\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8711e2c578b11c02511a46357e574ad5}{%
+           family={Hove},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=59fdc7b5a84c9f6dc601b20a512cdd50}{%
+           family={Somorjai},
+           familyi={S\bibinitperiod},
+           given={G.\bibnamedelimi A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{94858bca4ee86f33def2b4f08ae30625}
+      \strng{fullhash}{7b6bd7bb551d9f00cf05e3123fb87cda}
+      \strng{bibnamehash}{7b6bd7bb551d9f00cf05e3123fb87cda}
+      \strng{authorbibnamehash}{7b6bd7bb551d9f00cf05e3123fb87cda}
+      \strng{authornamehash}{94858bca4ee86f33def2b4f08ae30625}
+      \strng{authorfullhash}{7b6bd7bb551d9f00cf05e3123fb87cda}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{LEED Intensity Analysis of the Surface Structures of Pd(111) in a ($\sqrt{3} \times \sqrt{3})-$R30$^{\mathrm{o}}$ Arrangement}}
+      \field{volume}{187}
+      \field{year}{1987}
+      \field{pages}{372\bibrangedash 386}
+      \range{pages}{15}
+    \endentry
+    \entry{Rose2002}{article}{}
+      \name{author}{7}{}{%
+        {{hash=3db2a8d63ce39b1e0b1cdd9af133d7c3}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=21690eaf7f9c99c093f6f3a2b7143c0a}{%
+           family={Mitsui},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=7cbef2a4a623c24c71203f7f18d07fc7}{%
+           family={Dunphy},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9126f2bed3b1d9f6735e5f6262327cab}{%
+           family={Borg},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5f9171da4470c195a8b6d76f2ba1b22a}{%
+           family={Ogletree},
+           familyi={O\bibinitperiod},
+           given={D.\bibnamedelimi F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=4b2deff398ce8bcb9796ea66513a1b50}{%
+           family={Salmeron},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=09aa1c2b434c38dd4f148b9c63f447ca}{%
+           family={Sautet},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c181543a9a4cf67fcdf4fdafbe2b542b}
+      \strng{fullhash}{6e2ac431237465aadf36601fac772d18}
+      \strng{bibnamehash}{6e2ac431237465aadf36601fac772d18}
+      \strng{authorbibnamehash}{6e2ac431237465aadf36601fac772d18}
+      \strng{authornamehash}{c181543a9a4cf67fcdf4fdafbe2b542b}
+      \strng{authorfullhash}{6e2ac431237465aadf36601fac772d18}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{Ordered structures of CO on Pd(111) studied by STM}}
+      \field{volume}{512}
+      \field{year}{2002}
+      \field{pages}{48\bibrangedash 60}
+      \range{pages}{13}
+    \endentry
+    \entry{Surnev2000}{article}{}
+      \name{author}{7}{}{%
+        {{hash=aef367c9f4e9dc5e3a37533bc0c9c1a1}{%
+           family={Surnev},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=876c767874627b8d372ed6e3b9751d82}{%
+           family={Sock},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3d214c2c406b36f10200f415ea63e6e6}{%
+           family={Ramsey},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=5f10f9f469b12051a4c3ec2ba3667186}{%
+           family={Netzer},
+           familyi={N\bibinitperiod},
+           given={F.\bibnamedelimi P.},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5ff3e7d1dee26341bed8b66622028b76}{%
+           family={Wiklund},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d1d71fd1f1c96aae2952a11f0df318e9}{%
+           family={Borg},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=57250f3f54d00f4cebbd0210d39d2bcc}{%
+           family={Andersen},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6599b7bae84a767e01cd3328cfcc36d}
+      \strng{fullhash}{f2bdf69367d3968ef94359e68b931a82}
+      \strng{bibnamehash}{f2bdf69367d3968ef94359e68b931a82}
+      \strng{authorbibnamehash}{f2bdf69367d3968ef94359e68b931a82}
+      \strng{authornamehash}{b6599b7bae84a767e01cd3328cfcc36d}
+      \strng{authorfullhash}{f2bdf69367d3968ef94359e68b931a82}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{CO adsorption on Pd(111): A High-Resolution Core Level Photoemission and Electron Energy Loss Spectroscopy Study}}
+      \field{volume}{470}
+      \field{year}{2000}
+      \field{pages}{171\bibrangedash 185}
+      \range{pages}{15}
+    \endentry
+    \entry{Bradshaw1978}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cf866d16919aa7bd7148301f42b4c7ba}{%
+           family={Bradshaw},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f33838409d0d641f8d1c23805c05d607}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={F.\bibnamedelimi M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{655e6c9d5ec9eee4bdade2835aae8ea1}
+      \strng{fullhash}{655e6c9d5ec9eee4bdade2835aae8ea1}
+      \strng{bibnamehash}{655e6c9d5ec9eee4bdade2835aae8ea1}
+      \strng{authorbibnamehash}{655e6c9d5ec9eee4bdade2835aae8ea1}
+      \strng{authornamehash}{655e6c9d5ec9eee4bdade2835aae8ea1}
+      \strng{authorfullhash}{655e6c9d5ec9eee4bdade2835aae8ea1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{The Chemisorption of Carbon Monoxide on Palladium Single Crystal Surfaces: IR Spectroscopic Evidence for Loocalised Site Adsorption}}
+      \field{volume}{72}
+      \field{year}{1978}
+      \field{pages}{513\bibrangedash 535}
+      \range{pages}{23}
+    \endentry
+    \entry{Hoffmann1983}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f33838409d0d641f8d1c23805c05d607}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={F.\bibnamedelimi M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f33838409d0d641f8d1c23805c05d607}
+      \strng{fullhash}{f33838409d0d641f8d1c23805c05d607}
+      \strng{bibnamehash}{f33838409d0d641f8d1c23805c05d607}
+      \strng{authorbibnamehash}{f33838409d0d641f8d1c23805c05d607}
+      \strng{authornamehash}{f33838409d0d641f8d1c23805c05d607}
+      \strng{authorfullhash}{f33838409d0d641f8d1c23805c05d607}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science Reports}
+      \field{title}{{Infared Reflection-Absorption Spectroscopy of Adsorbed Molecules}}
+      \field{volume}{3}
+      \field{year}{1983}
+      \field{pages}{107\bibrangedash 192}
+      \range{pages}{86}
+    \endentry
+    \entry{Schaff1998}{article}{}
+      \name{author}{14}{}{%
+        {{hash=85e5bc1a1da98b4f694a444892e46029}{%
+           family={Gießel},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=831a6771860dd66092a03ed68ff24d3b}{%
+           family={Schaff},
+           familyi={S\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=4ecd5a66486a405ea53b04b555257e82}{%
+           family={Hirschmugl},
+           familyi={H\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3aa48cab7473c4b3e62e76204842d7f2}{%
+           family={Fernandez},
+           familyi={F\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=e0f07c32aa832eee8bf4d496bf99ec9c}{%
+           family={Schindler},
+           familyi={S\bibinitperiod},
+           given={K.-M.},
+           giveni={K\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=1c85fd7703f12e31274281886b53fd2e}{%
+           family={Theobald},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a0ccd3850cbfe92ab4795f6afae3dcda}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=043333e704a605565624d833714a2ad0}{%
+           family={Lindsay},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bb424111832685b163ad54846da3db67}{%
+           family={Berndt},
+           familyi={B\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=cf866d16919aa7bd7148301f42b4c7ba}{%
+           family={Bradshaw},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2a3fa0975b79076cddec9c4dd8eba810}{%
+           family={Baddeley},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b3c475b2948394021f48613d6eb002ed}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=9fd746dd934d3a17fa7577f50ea98dbc}{%
+           family={Lambert},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2cc8a4855594af9684defe271abf7474}{%
+           family={Woodruff},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{65f1b6767b97679f3d9707c38dbe4346}
+      \strng{fullhash}{097d070850a91b8a604ff56a49c66f12}
+      \strng{bibnamehash}{097d070850a91b8a604ff56a49c66f12}
+      \strng{authorbibnamehash}{097d070850a91b8a604ff56a49c66f12}
+      \strng{authornamehash}{65f1b6767b97679f3d9707c38dbe4346}
+      \strng{authorfullhash}{097d070850a91b8a604ff56a49c66f12}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{A Photoelectron Diffraction Study of Ordered Structures in the Chemisorption System Pd(111)-CO}}
+      \field{volume}{406}
+      \field{year}{1998}
+      \field{pages}{90\bibrangedash 102}
+      \range{pages}{13}
+    \endentry
+    \entry{Conrad1974}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b8c02162eb3b4b8516253a0835b489da}{%
+           family={Conrad},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a11bfaed298821c9f3122e4814a7a0dc}{%
+           family={Ertl},
+           familyi={E\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6fd2d4e8d1de310fd14e33a3b8f05392}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6af503e16fbed7943e26ce21f70d6a3a}{%
+           family={Latta},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi E.},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{43a8296a8cb9f730160b8905f77cf587}
+      \strng{fullhash}{135f0c3603e29bcd13456196a3c78640}
+      \strng{bibnamehash}{135f0c3603e29bcd13456196a3c78640}
+      \strng{authorbibnamehash}{135f0c3603e29bcd13456196a3c78640}
+      \strng{authornamehash}{43a8296a8cb9f730160b8905f77cf587}
+      \strng{authorfullhash}{135f0c3603e29bcd13456196a3c78640}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{Adsorption of CO on Pd Single Crystal Surfaces}}
+      \field{volume}{43}
+      \field{year}{1974}
+      \field{pages}{462\bibrangedash 480}
+      \range{pages}{19}
+    \endentry
+    \entry{Conrad1978}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b8c02162eb3b4b8516253a0835b489da}{%
+           family={Conrad},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a11bfaed298821c9f3122e4814a7a0dc}{%
+           family={Ertl},
+           familyi={E\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=99b0b9c98a428c1ce022d922cefb23e5}{%
+           family={Kuppers},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{43a8296a8cb9f730160b8905f77cf587}
+      \strng{fullhash}{4f407eec2b77c6b74d69a4c4497b559e}
+      \strng{bibnamehash}{4f407eec2b77c6b74d69a4c4497b559e}
+      \strng{authorbibnamehash}{4f407eec2b77c6b74d69a4c4497b559e}
+      \strng{authornamehash}{43a8296a8cb9f730160b8905f77cf587}
+      \strng{authorfullhash}{4f407eec2b77c6b74d69a4c4497b559e}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{Interactions Between Oxygen and Carbon Monoxide on a Pd(111) Surface}}
+      \field{volume}{76}
+      \field{year}{1978}
+      \field{pages}{323\bibrangedash 342}
+      \range{pages}{20}
+    \endentry
+    \entry{Sautet2000}{article}{}
+      \name{author}{5}{}{%
+        {{hash=09aa1c2b434c38dd4f148b9c63f447ca}{%
+           family={Sautet},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3db2a8d63ce39b1e0b1cdd9af133d7c3}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=42e8dce9c7ea93246f63f1b9acb5ae3d}{%
+           family={Dunphy},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=bd667578e8f69de0fd0fa03f27efb7dc}{%
+           family={Behler},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4b2deff398ce8bcb9796ea66513a1b50}{%
+           family={Salmeron},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{65462132b24088d1657c863ed6862452}
+      \strng{fullhash}{b6356575d3024b49b9ef45e8738572f8}
+      \strng{bibnamehash}{b6356575d3024b49b9ef45e8738572f8}
+      \strng{authorbibnamehash}{b6356575d3024b49b9ef45e8738572f8}
+      \strng{authornamehash}{65462132b24088d1657c863ed6862452}
+      \strng{authorfullhash}{b6356575d3024b49b9ef45e8738572f8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{Adsorption and Energetics of Isolated CO Molecules on Pd(111)}}
+      \field{volume}{453}
+      \field{year}{2000}
+      \field{pages}{25\bibrangedash 31}
+      \range{pages}{7}
+    \endentry
+    \entry{Lo1999}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a7ae89cc60a62981354cd450cead396e}{%
+           family={Loffreda},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=791fda2672ca10f31dcdf15de2af7a5f}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=09aa1c2b434c38dd4f148b9c63f447ca}{%
+           family={Sautet},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{99b7da72c1baf0cfbd45bce8cc6992b7}
+      \strng{fullhash}{656434a7791344c4a51a81b89438e05c}
+      \strng{bibnamehash}{656434a7791344c4a51a81b89438e05c}
+      \strng{authorbibnamehash}{656434a7791344c4a51a81b89438e05c}
+      \strng{authornamehash}{99b7da72c1baf0cfbd45bce8cc6992b7}
+      \strng{authorfullhash}{656434a7791344c4a51a81b89438e05c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{Dependence of Stretching Frequency on Surface Coverage and Adsorbate–Adsorbate Interactions: A Density-Functional Theory Approach of CO on Pd(111)}}
+      \field{volume}{425}
+      \field{year}{1999}
+      \field{pages}{68\bibrangedash 80}
+      \range{pages}{13}
+    \endentry
+    \entry{Herron2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=097ec33eb664320efaa36824ec57c3b1}{%
+           family={Herron},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b5a0aff9e34a7d4c15947d4c2db81398}{%
+           family={Tonelli},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9f628bd9390ffa4c9ceb2957449525e9}{%
+           family={Mavrikakis},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c6912604f25b2d957ae518bd8791b2c}
+      \strng{fullhash}{88355e574e363304d5ecf205f1de09a8}
+      \strng{bibnamehash}{88355e574e363304d5ecf205f1de09a8}
+      \strng{authorbibnamehash}{88355e574e363304d5ecf205f1de09a8}
+      \strng{authornamehash}{1c6912604f25b2d957ae518bd8791b2c}
+      \strng{authorfullhash}{88355e574e363304d5ecf205f1de09a8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surface Science}
+      \field{title}{{Atomic and Molecular Adsorption on Pd(111)}}
+      \field{volume}{606}
+      \field{year}{2012}
+      \field{pages}{1670\bibrangedash 1679}
+      \range{pages}{10}
+    \endentry
+    \entry{Huang2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=28c5d661e210437094f589cf8df9d60b}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={S.-C.},
+           giveni={S\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=ede01bb3fc4b235b13bf8e29f739b39e}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={C.-H.},
+           giveni={C\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=5cf7b9275201a28c8146a657e3d03459}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={J.-H.},
+           giveni={J\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aa7a50472e07aeb63088e50d6a253fa}
+      \strng{fullhash}{7882d432dfe277a9fa54795eb0792a30}
+      \strng{bibnamehash}{7882d432dfe277a9fa54795eb0792a30}
+      \strng{authorbibnamehash}{7882d432dfe277a9fa54795eb0792a30}
+      \strng{authornamehash}{5aa7a50472e07aeb63088e50d6a253fa}
+      \strng{authorfullhash}{7882d432dfe277a9fa54795eb0792a30}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{title}{{Trends of Water Gas Shift Reaction on Close-Packed Transition Metal Surfaces}}
+      \field{volume}{114}
+      \field{year}{2010}
+      \field{pages}{9826\bibrangedash 9834}
+      \range{pages}{9}
+    \endentry
+    \entry{Lin2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ede01bb3fc4b235b13bf8e29f739b39e}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={C.-H.},
+           giveni={C\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=e88a17f5875e5b3c464f00a3326666b4}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={C.-lL.},
+           giveni={C\bibinithyphendelim l\bibinitperiod}}}%
+        {{hash=5cf7b9275201a28c8146a657e3d03459}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={J.-H.},
+           giveni={J\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d9ab5c75d33318bfc025482e6d7f2ba}
+      \strng{fullhash}{9b10db78ff48acf6c728986d27b05271}
+      \strng{bibnamehash}{9b10db78ff48acf6c728986d27b05271}
+      \strng{authorbibnamehash}{9b10db78ff48acf6c728986d27b05271}
+      \strng{authornamehash}{5d9ab5c75d33318bfc025482e6d7f2ba}
+      \strng{authorfullhash}{9b10db78ff48acf6c728986d27b05271}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry B}
+      \field{title}{{Mechanistic Studies of Water Gas-Shift Reaction on Transition Metals}}
+      \field{volume}{115}
+      \field{year}{2011}
+      \field{pages}{18582\bibrangedash 18588}
+      \range{pages}{7}
+    \endentry
+    \entry{Martin2014}{article}{}
+      \name{author}{9}{}{%
+        {{hash=cc1e990b31595ba60d3f14b307435949}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={N.\bibnamedelimi M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a3d49cc66cda64d4a054cdf45ab704b3}{%
+           family={Bossche},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=c1eeb245b34981098e21175bb3d50121}{%
+           family={Gronbeck},
+           familyi={G\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ff3dae1c88f59685a1a60c3c132462c0}{%
+           family={Hakanoglu},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6e8985d8cb66644995173e9d72791746}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=317adb20c6b3ea65befa45a219f6410d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e9ef202445b76157c20fdf45a21dacb0}{%
+           family={Gustafson},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ef1fd0e3e74440b224f6daccd65142cb}{%
+           family={Weaver},
+           familyi={W\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=b8e330f44098a0f5fdabcbdddd7dbac4}{%
+           family={Lundgren},
+           familyi={L\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{775970717b833ebf9f790ce4f6303832}
+      \strng{fullhash}{20c53189fdd41087eaa7b8f699e43167}
+      \strng{bibnamehash}{20c53189fdd41087eaa7b8f699e43167}
+      \strng{authorbibnamehash}{20c53189fdd41087eaa7b8f699e43167}
+      \strng{authornamehash}{775970717b833ebf9f790ce4f6303832}
+      \strng{authorfullhash}{20c53189fdd41087eaa7b8f699e43167}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{title}{{CO Adsorption on Clean and Oxidized Pd (111)}}
+      \field{volume}{118}
+      \field{year}{2014}
+      \field{pages}{1118\bibrangedash 1128}
+      \range{pages}{11}
+    \endentry
+    \entry{Fernandez1997}{article}{}
+      \name{author}{11}{}{%
+        {{hash=3aa48cab7473c4b3e62e76204842d7f2}{%
+           family={Fernandez},
+           familyi={F\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=85e5bc1a1da98b4f694a444892e46029}{%
+           family={Gießel},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=831a6771860dd66092a03ed68ff24d3b}{%
+           family={Schaff},
+           familyi={S\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=e0f07c32aa832eee8bf4d496bf99ec9c}{%
+           family={Schindler},
+           familyi={S\bibinitperiod},
+           given={K.-M.},
+           giveni={K\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=1c85fd7703f12e31274281886b53fd2e}{%
+           family={Theobald},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4ecd5a66486a405ea53b04b555257e82}{%
+           family={Hirschmugl},
+           familyi={H\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a0ccd3850cbfe92ab4795f6afae3dcda}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cf866d16919aa7bd7148301f42b4c7ba}{%
+           family={Bradshaw},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2a3fa0975b79076cddec9c4dd8eba810}{%
+           family={Baddeley},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b3c475b2948394021f48613d6eb002ed}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=9fd746dd934d3a17fa7577f50ea98dbc}{%
+           family={Lambert},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6cf0154ca69694564f764283b939eb10}
+      \strng{fullhash}{ba11622b403635d80709d17cd840a49d}
+      \strng{bibnamehash}{ba11622b403635d80709d17cd840a49d}
+      \strng{authorbibnamehash}{ba11622b403635d80709d17cd840a49d}
+      \strng{authornamehash}{6cf0154ca69694564f764283b939eb10}
+      \strng{authorfullhash}{ba11622b403635d80709d17cd840a49d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Physikalische Chemie}
+      \field{title}{{A Photoelectron Diffraction Study of the Pd(111) $(\sqrt{3}\times\sqrt{3})R30^\mathrm{o}-$CO Chemisorption Phase}}
+      \field{volume}{198}
+      \field{year}{1997}
+      \field{pages}{73\bibrangedash 85}
+      \range{pages}{13}
+    \endentry
+    \entry{Kresse1996}{article}{}
+      \name{author}{2}{}{%
+        {{hash=40daea6217342757546b996c2086b7b4}{%
+           family={Kresse},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=57a647c73d7595ee4e6070042493941a}{%
+           family={Furthmüller},
+           familyi={F\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{fullhash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{bibnamehash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{authorbibnamehash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{authornamehash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{authorfullhash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Materials Science}
+      \field{title}{{Efficiency of ab initio Total Energy Calculations for Metals and Semiconductors Using a Plane-Wave Basis Set}}
+      \field{volume}{6}
+      \field{year}{1996}
+      \field{pages}{15\bibrangedash 50}
+      \range{pages}{36}
+    \endentry
+    \entry{Kresse1996a}{article}{}
+      \name{author}{2}{}{%
+        {{hash=40daea6217342757546b996c2086b7b4}{%
+           family={Kresse},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=57a647c73d7595ee4e6070042493941a}{%
+           family={Furthmüller},
+           familyi={F\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{fullhash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{bibnamehash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{authorbibnamehash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{authornamehash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \strng{authorfullhash}{5c66dda5fc7bfaa5597e78f4995dbab3}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{Efficient Iterative Schemes for ab initio Total-Energy Calculations Using a Plane-Wave Basis Set}}
+      \field{volume}{54}
+      \field{year}{1996}
+      \field{pages}{11169\bibrangedash 11186}
+      \range{pages}{18}
+    \endentry
+    \entry{Perdew1996}{article}{}
+      \name{author}{3}{}{%
+        {{hash=83fcd29c53fe9c35eb17b7323352cb83}{%
+           family={Perdew},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=2ca120d23a5e84f52807b1fad64642a3}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7f1cef6bc09988cdac590a2fa8bbdbf7}{%
+           family={Ernzerhof},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c67e8d94a4709b5159fca1219748002}
+      \strng{fullhash}{9f491f19595b44bd8ef771288b282cd3}
+      \strng{bibnamehash}{9f491f19595b44bd8ef771288b282cd3}
+      \strng{authorbibnamehash}{9f491f19595b44bd8ef771288b282cd3}
+      \strng{authornamehash}{8c67e8d94a4709b5159fca1219748002}
+      \strng{authorfullhash}{9f491f19595b44bd8ef771288b282cd3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters}
+      \field{title}{{Generalized Gradient Approximation Made Simple}}
+      \field{volume}{77}
+      \field{year}{1996}
+      \field{pages}{3865\bibrangedash 3868}
+      \range{pages}{4}
+    \endentry
+    \entry{Perdew1992}{article}{}
+      \name{author}{2}{}{%
+        {{hash=83fcd29c53fe9c35eb17b7323352cb83}{%
+           family={Perdew},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{de9cc0e6adf91fbf62e3b57686c66e49}
+      \strng{fullhash}{de9cc0e6adf91fbf62e3b57686c66e49}
+      \strng{bibnamehash}{de9cc0e6adf91fbf62e3b57686c66e49}
+      \strng{authorbibnamehash}{de9cc0e6adf91fbf62e3b57686c66e49}
+      \strng{authornamehash}{de9cc0e6adf91fbf62e3b57686c66e49}
+      \strng{authorfullhash}{de9cc0e6adf91fbf62e3b57686c66e49}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{Accurate and Simple Analytic Representation of the Electron-Gas Correlation Energy}}
+      \field{volume}{45}
+      \field{year}{1992}
+      \field{pages}{13244\bibrangedash 13249}
+      \range{pages}{6}
+    \endentry
+    \entry{Kresse1999}{article}{}
+      \name{author}{2}{}{%
+        {{hash=40daea6217342757546b996c2086b7b4}{%
+           family={Kresse},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=eca5cd563b92757eb7193b2f93059fc1}{%
+           family={Joubert},
+           familyi={J\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aa8a53e4e85e3e3b0f9041fb6f58cd9}
+      \strng{fullhash}{7aa8a53e4e85e3e3b0f9041fb6f58cd9}
+      \strng{bibnamehash}{7aa8a53e4e85e3e3b0f9041fb6f58cd9}
+      \strng{authorbibnamehash}{7aa8a53e4e85e3e3b0f9041fb6f58cd9}
+      \strng{authornamehash}{7aa8a53e4e85e3e3b0f9041fb6f58cd9}
+      \strng{authorfullhash}{7aa8a53e4e85e3e3b0f9041fb6f58cd9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{From Ultrasoft Pseudopotentials to the Projector Augmented-Wave Method}}
+      \field{volume}{59}
+      \field{year}{1999}
+      \field{pages}{11\bibrangedash 19}
+      \range{pages}{9}
+    \endentry
+    \entry{Bloch1994}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f532bfdef1671b27faf9bb1b104b83e6}{%
+           family={Bloch},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f532bfdef1671b27faf9bb1b104b83e6}
+      \strng{fullhash}{f532bfdef1671b27faf9bb1b104b83e6}
+      \strng{bibnamehash}{f532bfdef1671b27faf9bb1b104b83e6}
+      \strng{authorbibnamehash}{f532bfdef1671b27faf9bb1b104b83e6}
+      \strng{authornamehash}{f532bfdef1671b27faf9bb1b104b83e6}
+      \strng{authorfullhash}{f532bfdef1671b27faf9bb1b104b83e6}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{Projector Augmented-Wave Method}}
+      \field{volume}{50}
+      \field{year}{1994}
+      \field{pages}{17953\bibrangedash 17979}
+      \range{pages}{27}
+    \endentry
+    \entry{DaveyWheeler1925}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5b0b390a955a4544066a3dec8e166008}{%
+           family={Davey},
+           familyi={D\bibinitperiod},
+           given={W.\bibnamedelimi P.},
+           giveni={W\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b0b390a955a4544066a3dec8e166008}
+      \strng{fullhash}{5b0b390a955a4544066a3dec8e166008}
+      \strng{bibnamehash}{5b0b390a955a4544066a3dec8e166008}
+      \strng{authorbibnamehash}{5b0b390a955a4544066a3dec8e166008}
+      \strng{authornamehash}{5b0b390a955a4544066a3dec8e166008}
+      \strng{authorfullhash}{5b0b390a955a4544066a3dec8e166008}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review}
+      \field{title}{{Precision Measurements of the Lattice Constants of Twelve Common Metals}}
+      \field{volume}{538}
+      \field{year}{1925}
+      \field{pages}{753\bibrangedash 761}
+      \range{pages}{9}
+    \endentry
+    \entry{Monkhorst1976}{article}{}
+      \name{author}{2}{}{%
+        {{hash=04dfcc398ee0b7dbb9475e071eb6133b}{%
+           family={Monkhorst},
+           familyi={M\bibinitperiod},
+           given={H.\bibnamedelimi J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=be0418a370dafdd05c38c3b93a8d7e4e}{%
+           family={Pack},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0341d50e0ec455c02ca0316be2f27ff}
+      \strng{fullhash}{b0341d50e0ec455c02ca0316be2f27ff}
+      \strng{bibnamehash}{b0341d50e0ec455c02ca0316be2f27ff}
+      \strng{authorbibnamehash}{b0341d50e0ec455c02ca0316be2f27ff}
+      \strng{authornamehash}{b0341d50e0ec455c02ca0316be2f27ff}
+      \strng{authorfullhash}{b0341d50e0ec455c02ca0316be2f27ff}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{Special Points for Brillouin-Zone Integrations}}
+      \field{volume}{13}
+      \field{year}{1976}
+      \field{pages}{5188\bibrangedash 5192}
+      \range{pages}{5}
+    \endentry
+    \entry{Nakamoto2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1f8b6e2576b055f63e0325a464dbe916}{%
+           family={Nakamoto},
+           familyi={N\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, New Jersey}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{1f8b6e2576b055f63e0325a464dbe916}
+      \strng{fullhash}{1f8b6e2576b055f63e0325a464dbe916}
+      \strng{bibnamehash}{1f8b6e2576b055f63e0325a464dbe916}
+      \strng{authorbibnamehash}{1f8b6e2576b055f63e0325a464dbe916}
+      \strng{authornamehash}{1f8b6e2576b055f63e0325a464dbe916}
+      \strng{authorfullhash}{1f8b6e2576b055f63e0325a464dbe916}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Sixth}
+      \field{title}{{Infrared and Ramen Spectra and Coordination Compounds}}
+      \field{year}{2009}
+    \endentry
+    \entry{VandeWalle2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bc139c542155e63839208bfee8daf156}{%
+           family={Walle},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc139c542155e63839208bfee8daf156}
+      \strng{fullhash}{bc139c542155e63839208bfee8daf156}
+      \strng{bibnamehash}{bc139c542155e63839208bfee8daf156}
+      \strng{authorbibnamehash}{bc139c542155e63839208bfee8daf156}
+      \strng{authornamehash}{bc139c542155e63839208bfee8daf156}
+      \strng{authorfullhash}{bc139c542155e63839208bfee8daf156}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CALPHAD: Computer Coupling of Phase Diagrams and Thermochemistry}
+      \field{title}{{Multicomponent Multisublattice Alloys, Nonconfigurational Entropy and Other Additions to the Alloy Theoretic Automated Toolkit}}
+      \field{volume}{33}
+      \field{year}{2009}
+      \field{pages}{266\bibrangedash 278}
+      \range{pages}{13}
+    \endentry
+    \entry{VandeWalle2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bc139c542155e63839208bfee8daf156}{%
+           family={Walle},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=622dd7e67b7b92e9a086884d3c37386a}{%
+           family={Asta},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f92d3df02f3f87245347c9a8d822da1}
+      \strng{fullhash}{6f92d3df02f3f87245347c9a8d822da1}
+      \strng{bibnamehash}{6f92d3df02f3f87245347c9a8d822da1}
+      \strng{authorbibnamehash}{6f92d3df02f3f87245347c9a8d822da1}
+      \strng{authornamehash}{6f92d3df02f3f87245347c9a8d822da1}
+      \strng{authorfullhash}{6f92d3df02f3f87245347c9a8d822da1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Modeling and Simulations in Materials Science and Engineering}
+      \field{title}{{Self-Driven Lattice-Model Monte Carlo Simulations of Alloy Thermodynamic Properties and Phase Diagrams}}
+      \field{volume}{10}
+      \field{year}{2002}
+      \field{pages}{521\bibrangedash 538}
+      \range{pages}{18}
+    \endentry
+    \entry{VandeWalle2003}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bc139c542155e63839208bfee8daf156}{%
+           family={Walle},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=622dd7e67b7b92e9a086884d3c37386a}{%
+           family={Asta},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a1b60fd6a3b9a6fb0a03135ddc33721a}{%
+           family={Ceder},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{67cbab37c73196f60379813178659a08}
+      \strng{fullhash}{a310cde8bce52cccb436b0e62a799c56}
+      \strng{bibnamehash}{a310cde8bce52cccb436b0e62a799c56}
+      \strng{authorbibnamehash}{a310cde8bce52cccb436b0e62a799c56}
+      \strng{authornamehash}{67cbab37c73196f60379813178659a08}
+      \strng{authorfullhash}{a310cde8bce52cccb436b0e62a799c56}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CALPHAD: Computer Coupling of Phase Diagrams and Thermochemistry}
+      \field{title}{{The Alloy Theoretic Automated Toolkit: A User Guide}}
+      \field{volume}{26}
+      \field{year}{2003}
+      \field{pages}{539\bibrangedash 553}
+      \range{pages}{15}
+    \endentry
+    \entry{VandeWalle2002a}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bc139c542155e63839208bfee8daf156}{%
+           family={Walle},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=a1b60fd6a3b9a6fb0a03135ddc33721a}{%
+           family={Ceder},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{22f17656d5bfebbd220adaa5053c94a9}
+      \strng{fullhash}{22f17656d5bfebbd220adaa5053c94a9}
+      \strng{bibnamehash}{22f17656d5bfebbd220adaa5053c94a9}
+      \strng{authorbibnamehash}{22f17656d5bfebbd220adaa5053c94a9}
+      \strng{authornamehash}{22f17656d5bfebbd220adaa5053c94a9}
+      \strng{authorfullhash}{22f17656d5bfebbd220adaa5053c94a9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Phase Equilbria}
+      \field{title}{{Automating First-Principle Phase Diagram Calculations}}
+      \field{volume}{23}
+      \field{year}{2002}
+      \field{pages}{348\bibrangedash 359}
+      \range{pages}{12}
+    \endentry
+    \entry{Bray2013}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=a1ae4588874754f6736ea5606d08270c}{%
+           family={Bray},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Notre Dame}%
+      }
+      \strng{namehash}{a1ae4588874754f6736ea5606d08270c}
+      \strng{fullhash}{a1ae4588874754f6736ea5606d08270c}
+      \strng{bibnamehash}{a1ae4588874754f6736ea5606d08270c}
+      \strng{authorbibnamehash}{a1ae4588874754f6736ea5606d08270c}
+      \strng{authornamehash}{a1ae4588874754f6736ea5606d08270c}
+      \strng{authorfullhash}{a1ae4588874754f6736ea5606d08270c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{April}
+      \field{title}{{Adsorbate Coverage Dependence in Heterogeneous Catalysis: Kinetics of Oxygen on Platinum Surfaces From First Principles}}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+    \endentry
+    \entry{Zhang1993}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c7cc964df728a70ad780d497f5485ea8}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7cc964df728a70ad780d497f5485ea8}
+      \strng{fullhash}{c7cc964df728a70ad780d497f5485ea8}
+      \strng{bibnamehash}{c7cc964df728a70ad780d497f5485ea8}
+      \strng{authorbibnamehash}{c7cc964df728a70ad780d497f5485ea8}
+      \strng{authornamehash}{c7cc964df728a70ad780d497f5485ea8}
+      \strng{authorfullhash}{c7cc964df728a70ad780d497f5485ea8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of Statistics}
+      \field{title}{{Model Selection via Multifold Cross Validation}}
+      \field{volume}{21}
+      \field{year}{1993}
+      \field{pages}{299\bibrangedash 313}
+      \range{pages}{15}
+    \endentry
+    \entry{Shao1993}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c4533700ec719551bcaffe79f4064da6}{%
+           family={Shao},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4533700ec719551bcaffe79f4064da6}
+      \strng{fullhash}{c4533700ec719551bcaffe79f4064da6}
+      \strng{bibnamehash}{c4533700ec719551bcaffe79f4064da6}
+      \strng{authorbibnamehash}{c4533700ec719551bcaffe79f4064da6}
+      \strng{authornamehash}{c4533700ec719551bcaffe79f4064da6}
+      \strng{authorfullhash}{c4533700ec719551bcaffe79f4064da6}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Statistical Association}
+      \field{title}{{Linear Model Selection by Cross-Validation}}
+      \field{volume}{88}
+      \field{year}{1993}
+      \field{pages}{486\bibrangedash 494}
+      \range{pages}{9}
+    \endentry
+    \entry{Arlot2010}{article}{}
+      \name{author}{2}{}{%
+        {{hash=444f8a8be0736053bc28014f702bc260}{%
+           family={Arlot},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8f95ec5d6f4871a7f614622b9672a620}{%
+           family={Celisse},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{df678282db3fed8188c5afec50727d91}
+      \strng{fullhash}{df678282db3fed8188c5afec50727d91}
+      \strng{bibnamehash}{df678282db3fed8188c5afec50727d91}
+      \strng{authorbibnamehash}{df678282db3fed8188c5afec50727d91}
+      \strng{authornamehash}{df678282db3fed8188c5afec50727d91}
+      \strng{authorfullhash}{df678282db3fed8188c5afec50727d91}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistics Surveys}
+      \field{title}{{A Survey of Cross-Validation Procedures for Model Selection}}
+      \field{volume}{4}
+      \field{year}{2010}
+      \field{pages}{40\bibrangedash 79}
+      \range{pages}{40}
+    \endentry
+    \entry{Feibelman2001}{article}{}
+      \name{author}{8}{}{%
+        {{hash=0692705a59e872cf16a5002ae4928252}{%
+           family={Feibelman},
+           familyi={F\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4479c9971d09a8f94f6dbef3cdf9cb0e}{%
+           family={Hammer},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7ae731ce41a114f67899c33dc2c13dfe}{%
+           family={Nørskov},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9095b653bf6542241112e55c932eeca4}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=734b76d862ea9278008138d9779a99e6}{%
+           family={Scheffler},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d9790ff89c5196ac30eec79b91ad8be0}{%
+           family={Stumpf},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a43b38307262bbfa677b5358280646d1}{%
+           family={Watwe},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c5baafd114e938a5fea307a7ac559b08}{%
+           family={Dumesic},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{464920364397659340aae136e6e8d1e9}
+      \strng{fullhash}{acb22288d6d0b723c9509f42d331b106}
+      \strng{bibnamehash}{acb22288d6d0b723c9509f42d331b106}
+      \strng{authorbibnamehash}{acb22288d6d0b723c9509f42d331b106}
+      \strng{authornamehash}{464920364397659340aae136e6e8d1e9}
+      \strng{authorfullhash}{acb22288d6d0b723c9509f42d331b106}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry B}
+      \field{title}{{The CO/Pt(111) Puzzle}}
+      \field{volume}{105}
+      \field{year}{2001}
+      \field{pages}{4018\bibrangedash 4025}
+      \range{pages}{8}
+    \endentry
+    \entry{Kresse2003}{article}{}
+      \name{author}{3}{}{%
+        {{hash=40daea6217342757546b996c2086b7b4}{%
+           family={Kresse},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=63cd63e0563d8e5a4a9b3f5bc0e864ad}{%
+           family={Gil},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=09aa1c2b434c38dd4f148b9c63f447ca}{%
+           family={Sautet},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{1510c63a3357919b8df5e4ff576c21af}
+      \strng{fullhash}{d3c1c9606b254adf606421a07ab84620}
+      \strng{bibnamehash}{d3c1c9606b254adf606421a07ab84620}
+      \strng{authorbibnamehash}{d3c1c9606b254adf606421a07ab84620}
+      \strng{authornamehash}{1510c63a3357919b8df5e4ff576c21af}
+      \strng{authorfullhash}{d3c1c9606b254adf606421a07ab84620}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{title}{{Significance of Single-Electron Energies for the Description of CO on Pt(111)}}
+      \field{volume}{68}
+      \field{year}{2003}
+      \field{pages}{073401}
+      \range{pages}{1}
+    \endentry
+    \entry{Park1999}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ceda796b980621ddbda9292c32a49702}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Y.\bibnamedelimi K.},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a291c498d365e1d88f1a2d8556319033}{%
+           family={Aghalayam},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e68957656717f1547c460bd27cab4243}{%
+           family={Vlachos},
+           familyi={V\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{74aae785c6eda7396fbfdb736267c307}
+      \strng{fullhash}{5becb903cce24e4f53046aac682162e3}
+      \strng{bibnamehash}{5becb903cce24e4f53046aac682162e3}
+      \strng{authorbibnamehash}{5becb903cce24e4f53046aac682162e3}
+      \strng{authornamehash}{74aae785c6eda7396fbfdb736267c307}
+      \strng{authorfullhash}{5becb903cce24e4f53046aac682162e3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physical Chemistry A}
+      \field{title}{{A Generalized Approach for Predicting Coverage-Dependent Reaction Parameters of Complex Surface Reactions: Application to \ce{H2} Oxidation over Platinum}}
+      \field{volume}{103}
+      \field{year}{1999}
+      \field{pages}{8101\bibrangedash 8107}
+      \range{pages}{7}
+    \endentry
+    \entry{Aghalayam2003}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a291c498d365e1d88f1a2d8556319033}{%
+           family={Aghalayam},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ceda796b980621ddbda9292c32a49702}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Y.\bibnamedelimi K.},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f35086e87453f8e4172e09135df777ee}{%
+           family={Fernandes},
+           familyi={F\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3956080e579105c64a855de8ec82871d}{%
+           family={Papavassiliou},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=41b9eada288dc7f243824bf0a914cd53}{%
+           family={Mhadeshwar},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=e68957656717f1547c460bd27cab4243}{%
+           family={Vlachos},
+           familyi={V\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ed7a5570d49acc68c89dcbe61a72994}
+      \strng{fullhash}{a1900e7967594c3ab767964af2872a19}
+      \strng{bibnamehash}{a1900e7967594c3ab767964af2872a19}
+      \strng{authorbibnamehash}{a1900e7967594c3ab767964af2872a19}
+      \strng{authornamehash}{3ed7a5570d49acc68c89dcbe61a72994}
+      \strng{authorfullhash}{a1900e7967594c3ab767964af2872a19}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Catalysis}
+      \field{title}{{A C1 Mechanism for Methane Oxidation on Platinum}}
+      \field{volume}{213}
+      \field{year}{2003}
+      \field{pages}{23\bibrangedash 38}
+      \range{pages}{16}
+    \endentry
+    \entry{Hansgen2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=439b51c4f15d3d4913594d41ae245180}{%
+           family={Hansgen},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e68957656717f1547c460bd27cab4243}{%
+           family={Vlachos},
+           familyi={V\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=cd8093bd7aef8cca2f76e45eb991d575}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e826988669e8c76e9e977445ffe5c0b}
+      \strng{fullhash}{dc9b57cda8994bf7769d66956c10c361}
+      \strng{bibnamehash}{dc9b57cda8994bf7769d66956c10c361}
+      \strng{authorbibnamehash}{dc9b57cda8994bf7769d66956c10c361}
+      \strng{authornamehash}{9e826988669e8c76e9e977445ffe5c0b}
+      \strng{authorfullhash}{dc9b57cda8994bf7769d66956c10c361}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Chemistry}
+      \field{title}{{Using First Principles to Predict Bimetallic Catalysts for the Ammonia Decomposition Reaction}}
+      \field{volume}{2}
+      \field{year}{2010}
+      \field{pages}{484\bibrangedash 489}
+      \range{pages}{6}
+    \endentry
+    \entry{Aghalayam2000}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a291c498d365e1d88f1a2d8556319033}{%
+           family={Aghalayam},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ceda796b980621ddbda9292c32a49702}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Y.\bibnamedelimi K.},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e68957656717f1547c460bd27cab4243}{%
+           family={Vlachos},
+           familyi={V\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ed7a5570d49acc68c89dcbe61a72994}
+      \strng{fullhash}{2bd3040b7dc8e5ecebe9ab49948ed6b3}
+      \strng{bibnamehash}{2bd3040b7dc8e5ecebe9ab49948ed6b3}
+      \strng{authorbibnamehash}{2bd3040b7dc8e5ecebe9ab49948ed6b3}
+      \strng{authornamehash}{3ed7a5570d49acc68c89dcbe61a72994}
+      \strng{authorfullhash}{2bd3040b7dc8e5ecebe9ab49948ed6b3}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIChE Journal}
+      \field{title}{{Construction and Optimization of Complex Surface-Reaction Mechanisms}}
+      \field{volume}{46}
+      \field{year}{2000}
+      \field{pages}{2017\bibrangedash 2029}
+      \range{pages}{13}
+    \endentry
+    \entry{Baker1966}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3e36ae01b791d9d9771fd33c557d05eb}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3e36ae01b791d9d9771fd33c557d05eb}
+      \strng{fullhash}{3e36ae01b791d9d9771fd33c557d05eb}
+      \strng{bibnamehash}{3e36ae01b791d9d9771fd33c557d05eb}
+      \strng{authorbibnamehash}{3e36ae01b791d9d9771fd33c557d05eb}
+      \strng{authornamehash}{3e36ae01b791d9d9771fd33c557d05eb}
+      \strng{authorfullhash}{3e36ae01b791d9d9771fd33c557d05eb}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{title}{{Configurational Entropy of Adsorption of Large Atoms}}
+      \field{volume}{45}
+      \field{year}{1966}
+      \field{pages}{2694}
+      \range{pages}{1}
+    \endentry
+    \entry{Fowler1936}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a43b3b95b966cf428927642bc9317b23}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a43b3b95b966cf428927642bc9317b23}
+      \strng{fullhash}{a43b3b95b966cf428927642bc9317b23}
+      \strng{bibnamehash}{a43b3b95b966cf428927642bc9317b23}
+      \strng{authorbibnamehash}{a43b3b95b966cf428927642bc9317b23}
+      \strng{authornamehash}{a43b3b95b966cf428927642bc9317b23}
+      \strng{authorfullhash}{a43b3b95b966cf428927642bc9317b23}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Proceedings of the Cambridge Philosophical Society}
+      \field{title}{{Adsorption Isotherms: Critical Isotherms}}
+      \field{volume}{32}
+      \field{year}{1936}
+      \field{pages}{144\bibrangedash 151}
+      \range{pages}{8}
+    \endentry
+    \entry{Bajpai2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=37662fa5b5e4302e4b05c9d113d37787}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Anshumaan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c893dcf0ded1cc62902fecd2a5b77c52}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod}}}%
+        {{hash=049e55461cdb18dfba63e0b8d1aadd02}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{404805a292161925ffe9a2cf0326f267}
+      \strng{fullhash}{6c89f6702b0285c03b9f5f16f012a588}
+      \strng{bibnamehash}{6c89f6702b0285c03b9f5f16f012a588}
+      \strng{authorbibnamehash}{6c89f6702b0285c03b9f5f16f012a588}
+      \strng{authornamehash}{404805a292161925ffe9a2cf0326f267}
+      \strng{authorfullhash}{6c89f6702b0285c03b9f5f16f012a588}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Langmuir}
+      \field{number}{1}
+      \field{title}{Comparison of Coverage-Dependent Binding Energy Models for Mean-Field Microkinetic Rate Predictions}
+      \field{volume}{36}
+      \field{year}{2020}
+      \field{pages}{465\bibrangedash 474}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/acs.langmuir.9b03563
+      \endverb
+    \endentry
+    \entry{Redhead1962}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b2e8667c27593d8ed104353261aef1bb}{%
+           family={Redhead},
+           familyi={R\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2e8667c27593d8ed104353261aef1bb}
+      \strng{fullhash}{b2e8667c27593d8ed104353261aef1bb}
+      \strng{bibnamehash}{b2e8667c27593d8ed104353261aef1bb}
+      \strng{authorbibnamehash}{b2e8667c27593d8ed104353261aef1bb}
+      \strng{authornamehash}{b2e8667c27593d8ed104353261aef1bb}
+      \strng{authorfullhash}{b2e8667c27593d8ed104353261aef1bb}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Vacuum}
+      \field{title}{{Thermal Desorption of Gases}}
+      \field{volume}{12}
+      \field{year}{1962}
+      \field{pages}{203\bibrangedash 211}
+      \range{pages}{9}
+    \endentry
+    \entry{wellendorff2015}{article}{}
+      \name{author}{7}{}{%
+        {{hash=1a4c94b35481e1233a7ac8085a9e1288}{%
+           family={Wellendorff},
+           familyi={W\bibinitperiod},
+           given={Jess},
+           giveni={J\bibinitperiod}}}%
+        {{hash=68eabb2cc8b655a873aecea1c2785e6c}{%
+           family={Silbaugh},
+           familyi={S\bibinitperiod},
+           given={Trent\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7b0705eb00b0ed9248be5aca1aae044a}{%
+           family={Garcia-Pintos},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={Delfina},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e7978b6851731a6ee2d29e162f55d468}{%
+           family={Nørskov},
+           familyi={N\bibinitperiod},
+           given={Jens\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=5f6bd3483468f5e247020105d0e362e8}{%
+           family={Bligaard},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=252cf167d54ac7097bfa950a92fdf6cf}{%
+           family={Studt},
+           familyi={S\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=47f0a60dcc5091a49361769d1d28e5fe}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Charles\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5caed1d1e4897c8d940ffd64f0b090a4}
+      \strng{fullhash}{e82a4511b1e6e4748b5357fa6e724653}
+      \strng{bibnamehash}{e82a4511b1e6e4748b5357fa6e724653}
+      \strng{authorbibnamehash}{e82a4511b1e6e4748b5357fa6e724653}
+      \strng{authornamehash}{5caed1d1e4897c8d940ffd64f0b090a4}
+      \strng{authorfullhash}{e82a4511b1e6e4748b5357fa6e724653}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00396028}
+      \field{journaltitle}{Surface Science}
+      \field{month}{10}
+      \field{title}{A benchmark database for adsorption bond energies to transition metal surfaces and comparison to selected {DFT} functionals}
+      \field{urlday}{31}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
+      \field{volume}{640}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{36\bibrangedash 44}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.susc.2015.03.023
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039602815000837
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039602815000837
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

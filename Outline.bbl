@@ -1,0 +1,176 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Grabow2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d54f5a1e1e66639fdfb2dd414054700e}{%
+           family={Grabow},
+           familyi={G\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ca1426ee2d38b25070b0dcdc9251af5e}{%
+           family={Hvolb{æ}k},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7ae731ce41a114f67899c33dc2c13dfe}{%
+           family={N{ø}rskov},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{157cec95faea757552720c6c8c0d5e88}
+      \strng{fullhash}{66eac270602b8a44ec03ee50e9c46afa}
+      \strng{bibnamehash}{66eac270602b8a44ec03ee50e9c46afa}
+      \strng{authorbibnamehash}{66eac270602b8a44ec03ee50e9c46afa}
+      \strng{authornamehash}{157cec95faea757552720c6c8c0d5e88}
+      \strng{authorfullhash}{66eac270602b8a44ec03ee50e9c46afa}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Topics in Catalysis}
+      \field{title}{{Understanding Trends in Catalytic Activity: The Effect of Adsorbate-Adsorbate Interactions for CO Oxidation Over Transition Metals}}
+      \field{volume}{53}
+      \field{year}{2010}
+      \field{pages}{298\bibrangedash 310}
+      \range{pages}{13}
+    \endentry
+    \entry{Bajpai2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=37662fa5b5e4302e4b05c9d113d37787}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Anshumaan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c893dcf0ded1cc62902fecd2a5b77c52}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod}}}%
+        {{hash=049e55461cdb18dfba63e0b8d1aadd02}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{404805a292161925ffe9a2cf0326f267}
+      \strng{fullhash}{6c89f6702b0285c03b9f5f16f012a588}
+      \strng{bibnamehash}{6c89f6702b0285c03b9f5f16f012a588}
+      \strng{authorbibnamehash}{6c89f6702b0285c03b9f5f16f012a588}
+      \strng{authornamehash}{404805a292161925ffe9a2cf0326f267}
+      \strng{authorfullhash}{6c89f6702b0285c03b9f5f16f012a588}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Langmuir}
+      \field{number}{1}
+      \field{title}{Comparison of Coverage-Dependent Binding Energy Models for Mean-Field Microkinetic Rate Predictions}
+      \field{volume}{36}
+      \field{year}{2020}
+      \field{pages}{465\bibrangedash 474}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/acs.langmuir.9b03563
+      \endverb
+    \endentry
+    \entry{Grabow2008}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d54f5a1e1e66639fdfb2dd414054700e}{%
+           family={Grabow},
+           familyi={G\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=e3c265b1f9664380f2c2f61888232584}{%
+           family={Gokhale},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=aa860b10f74c32e08b34df1e685ce021}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={S.\bibnamedelimi T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=bfc8450c7b6fc558edf38abb47981ff0}{%
+           family={Dumesic},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9f628bd9390ffa4c9ceb2957449525e9}{%
+           family={Mavrikakis},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{157cec95faea757552720c6c8c0d5e88}
+      \strng{fullhash}{e93b0b676f25cdd701608b9e324bce7b}
+      \strng{bibnamehash}{e93b0b676f25cdd701608b9e324bce7b}
+      \strng{authorbibnamehash}{e93b0b676f25cdd701608b9e324bce7b}
+      \strng{authornamehash}{157cec95faea757552720c6c8c0d5e88}
+      \strng{authorfullhash}{e93b0b676f25cdd701608b9e324bce7b}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{title}{{Mechanism of the Water Gas Shift Reaction on Pt: First Principles, Experiments, and Microkinetic Modeling}}
+      \field{volume}{112}
+      \field{year}{2008}
+      \field{pages}{4608\bibrangedash 4617}
+      \range{pages}{10}
+    \endentry
+    \entry{Guo1989}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d1cf3b5875e193af09fb48f09d5f8c55}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f8a2abaa2986ee9a58bb087e56c49698}{%
+           family={Yates},
+           familyi={Y\bibinitperiod},
+           given={J.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{fullhash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{bibnamehash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{authorbibnamehash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{authornamehash}{65773a1bda94004ac1d3263bf7f79b84}
+      \strng{authorfullhash}{65773a1bda94004ac1d3263bf7f79b84}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{title}{{Dependence of Effective Desorption Kinetic Parameters on Surface Coverage and Adsorption Temperature: CO on Pd(111)}}
+      \field{volume}{90}
+      \field{year}{1989}
+      \field{pages}{6761}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
